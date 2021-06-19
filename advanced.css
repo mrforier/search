@@ -1,0 +1,96 @@
+body{font-family:Roboto,arial,sans-serif}
+
+
+
+@media only screen and (max-width: 600px) {
+    .ASExample {
+      display: none;
+    }
+  }
+
+.appbar {
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+ 
+
+.formblock {
+    display: inline-block;
+    min-width: 150px;
+    width: 80%;
+    font-size: 17px;
+    height: 42px;
+    font-weight: 500;
+    color: #333;
+    vertical-align: middle;
+    
+}
+
+
+.ASRow {
+    display: flex;
+    flex-direction: row;
+    float: inherit;
+    margin: 10px 0;
+    font-size: 13px;
+}
+
+.jfk-button {
+    margin: 10px 0;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    color:white;
+}
+
+.ASFont{
+    display: inline-block;
+    width:16%;
+    height:42px;
+    line-height: 12px;
+    min-width: 200px;
+    margin: 10px;
+    vertical-align: middle;
+}
+
+.ASRow-1 {
+    display: inline-block;
+    width:80%;
+    height:42px;
+    font-size: 17px;
+    min-width: 146px;
+    margin-left: 10px;
+    font-weight: 500;
+    color: #333;
+    vertical-align: middle;
+}
+
+.ASInput{
+    width:16%;
+    height:42px;
+    min-width: 300px;
+    margin: 10px 0;
+    font-size: 13px;
+    vertical-align: middle;
+}
+
+.jfk-textinput {
+    min-width:inherit;
+    padding: 5px 8px;
+}
+
+
+.ASExampleFont {
+    color: #666;
+    font-family: monospace;
+    font-size: 11px;
+    white-space: pre;
+    vertical-align: middle;
+    min-width:200;
+}
+
+
+
+
+
+form {margin:  35px 25px;}
