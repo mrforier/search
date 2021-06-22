@@ -3,24 +3,28 @@
     <link rel="stylesheet" href="search.css">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Search</title>
+        <title>Image Search</title>
     </head>
     <body>           
         <header>
+
             <div class="links">
-                <a href="imagesearch.html" target="_top">images</a>
-                <a href="advancedsearch.html" target="_top">advanced</a>
+                <a href="index.html" target="_top">search  </a>
+                <a href="advancedsearch.html" target="_top">advanced   </a>
             </div>
         </header>
         <div class = "searchpage">
             <div class = "searchblock">
                 <div class = "imageblock">
                     <img class="imagecenter" alt="cs50 Google Search" height="92" width = "272" src="images/dragon-boat-festival-2021-6753651837108963.2-2xa.gif" > 
+                    <div> 
+                        <span>Image Search</span>
+                    </div>
                 </div>
                 <div>
-                    <form  action="https://google.com/search">
-                        <input class= "searchform" type="text" name="q">
-                        <br>
+                    <form  action="https://www.google.com/search">
+                        <input class= "searchform" type="text" name="q"><br>
+                        <input type= "hidden" name="tbm" value = "isch"> 
                         <input type="submit" value="Google Search">
                         <input id="gbqfbb" value="I'm Feeling Lucky" aria-label="I'm Feeling Lucky" name="btnI" type="submit">
                     </form>
