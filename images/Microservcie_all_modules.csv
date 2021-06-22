@@ -1,0 +1,1963 @@
+Id,Module Name,Key,Server Code,Application,Owner(Team),Managed by Heliopolis?
+2,deathBURRITO,deathburrito,burr,deathBURRITO,Cloud Ninjas,TRUE
+3,RADT,radt,radt,RADT,Cloud Ninjas,TRUE
+7,MADT (Linux),madtlinux,,Eye of RA,Cloud Ninjas,FALSE
+8,MADT (Windows),madtwin,,Eye of RA,Cloud Ninjas,FALSE
+9,Subversion (Source Code),svn,,Subversion,Dynamites,FALSE
+10,Bamboo Web,bamboo,,Bamboo,Dynamites,FALSE
+11,Artifactory,artifactory,,Artifactory,Cloud Ninjas,FALSE
+13,Academic Affairs Administration (A3),a3,,Governance,Philomaths,FALSE
+14,Academic Violations Tracking System (AVT),avt,,Governance,Philomaths,FALSE
+17,Account Summary,asum,,Account Summary,Bank Roller$,FALSE
+18,Admissions Workbench (Evaluation),evaluation,,Admissions Workbench,Philomaths,TRUE
+19,All-in-One (LMS Admin)  (To Be Deleted),aio,,All-In-One,Premium,FALSE
+21,Apollo Survey and Assessment Platform (ASAP),asap,,eCampus Classroom Services,Premium,FALSE
+22,ApplyWeb,applyweb_ui,,MyApply,Phoenix Rising,FALSE
+24,AWForms,awforms,,AW Forms,404's,TRUE
+26,AWSupport,awsupport,,AW Forms,404's,TRUE
+31,CAS - Internal,cas,,Single Sign-On (SSO),Skynet,FALSE
+33,ClassOps Workbench (CWB),cwb,,CWB - ClassOps WorkBench,Premium,TRUE
+34,Class Roster - FAResources,far,,FAResources,Premium,FALSE
+36,Classroom Issue Tracking System (CIT),cit,,Governance,Philomaths,FALSE
+37,Classroom Issue Tracking System - Ground Campus (CIT-GC),citgc,,Governance,Philomaths,FALSE
+39,Classroom Materials,cmat,,Classroom Materials,Winterfell Wolves,FALSE
+42,College Level Examination Program (CLEP),clep,,Workbench,Philomaths,FALSE
+43,Commencement Web,cweb,,Commencement Web & Admin,Premium,FALSE
+44,Commencement Web Admin,commencewebadmin,,Commencement Web & Admin,Premium,FALSE
+46,Community Profile,cp,,Profile - global,Avatars,FALSE
+49,Atlassian - Confluence,wiki,,Atlassian - Confluence,Dynamites,FALSE
+50,Content Area Request (CAR) - FCServices,car,,FCServices,Philomaths,FALSE
+51,Correspondence Generation (Corrgen),corrgen,,Correspondence Generation,Philomaths,FALSE
+53,Curriculum Guide,cguide,,Program,Premium,FALSE
+54,Degree Audit,degreeaudit,,Degree Audit,Philomaths,TRUE
+56,Diploma Application Online (DAO),dao,,DAO - Diploma Application Online,Premium,FALSE
+57,Diploma Application Online (DAO) Admin Tool,daoadm,,DAO - Diploma Application Online,Premium,FALSE
+60,Discussion Forums,forums,,OLS3,Winterfell Wolves,FALSE
+62,eBooks PPDF Publisher,ppdfpublisher,,eBook,Winterfell Wolves,FALSE
+65,Employee Management System (EMS),ems_ear,,EMS - Employee Management System,Philomaths,TRUE
+67,eXp/Documentum - eXp,exp,,eXp/Documentum,404's,TRUE
+68,Faculty 1098T,f1098t,,1098T,Capital Gain$,FALSE
+69,Faculty 401k,f401k,,FAAccount,Premium,FALSE
+70,Faculty Acknowledgement - FAResources,fackfar,,FAResources,Premium,FALSE
+71,Faculty Center,fc_ear,,Faculty Center,Philomaths,TRUE
+72,Faculty Confirmation,fconf,,Message Center,Premium,FALSE
+75,Faculty Forms,fform,,FAAccount,Premium,FALSE
+77,Faculty Profiles,fprof,,Profile - global,Avatars,FALSE
+78,Faculty Program Handbook,fphb,,Program Handbooks,Premium,FALSE
+79,Faculty Solicitations - FCServices,fsol,,FCServices,Philomaths,FALSE
+81,Faculty Tutorials,ftut,,FAResources,Premium,FALSE
+82,Faculty Webs,fweb,,Faculty Webs,Philomaths,FALSE
+83,FASt (Dilbert),fast,,FASt,Philomaths,FALSE
+88,Global Governance System (GGS),ggs,,Governance,Philomaths,TRUE
+89,GPA Calculator,gpa,,GPA Calculator,Premium,FALSE
+90,Grade Entry,ge,,Equity Award Admin,Premium,FALSE
+91,Gradebook,gradebook,,Gradebook,Winterfell Wolves,FALSE
+92,Grievance Management System (GMS),gms,,Governance,Philomaths,FALSE
+94,Integrated Student Service Station (IS3) Academics,is3,,IS3,Philomaths,FALSE
+95,Integrated Student Service Station (IS3) Enrollment,enrollment_ear,,IS3 enrollment,Philomaths,TRUE
+96,Integrated Student Service Station (IS3) Finance,is3fa,,IS3,Philomaths,FALSE
+99,LCMS Asset Manager,lcmsam,,Learning Content Management System (LCMS),Premium,FALSE
+100,LCMS Course Builder,lcmscb,,Learning Content Management System (LCMS),Premium,FALSE
+105,Measure of Academic Proficiency and Progress (MAPP),mapp,,Equity Award Admin,Premium,FALSE
+107,Message Center Web Services,mc,,Message Center,Premium,FALSE
+108,Message Center Admin,mcadm,,Message Center,Premium,FALSE
+110,My Account,myacct,,MyServices,Premium,FALSE
+111,My Contacts,mycont,,MyServices,Premium,FALSE
+114,Nursing Web,nweb,,SASWeb - School of Advanced Studies Web,Premium,FALSE
+115,Online ClassOps,online_classops,,ClassOps,Premium,TRUE
+116,Online RSS,rss,,classroom,Winterfell Wolves,FALSE
+118,Password Reset Tool,passwd,,Change Password,Premium,FALSE
+119,PayNow,paynow,,Pay Now,Capital Gain$,TRUE
+121,Plagiarism Checker,pcheck,,eCampus Classroom Services,Premium,FALSE
+122,Portal,portal,,Portal,Premium,TRUE
+123,Prior Learning Assessment Center (PLAC) - Faculty,plac_faculty,,Prior Learning Assessment Center (PLAC) & Admin,Premium,FALSE
+124,Prior Learning Assessment Center (PLAC) Admin,placadm,,Prior Learning Assessment Center (PLAC) & Admin,Premium,FALSE
+125,Program Development,pd,,Program Development,Philomaths,FALSE
+126,Program Handbooks,proghand,,Program Handbooks,Premium,FALSE
+127,Program Workbench,pw,,Program Workbench,Philomaths,TRUE
+131,School of Advanced Studies Residency (SAS Residency),res,,SASWeb - School of Advanced Studies Web,Premium,FALSE
+132,School of Advanced Studies Residency Admin (SAS Residency Admin),resadm,,SASWeb - School of Advanced Studies Web,Premium,FALSE
+133,Schedule and Grades,sg,,Schedule and Grades,Premium,FALSE
+134,School of Advanced Studies Reporting (SAS Reporting),sasr,,SASWeb - School of Advanced Studies Web,Premium,FALSE
+135,School of Advanced Studies Updater (SAS Updater),sasu,,SASWeb - School of Advanced Studies Web,Premium,FALSE
+136,School of Advanced Studies Web (SASWeb),sasweb,,SASWeb - School of Advanced Studies Web,Premium,FALSE
+137,School of Advanced Studies Web Admin (SAS Web Admin),sasadm,,SASWeb - School of Advanced Studies Web,Premium,FALSE
+138,SOA Internal,soai,,Service-Oriented Architecture (SOA),Bank Roller$,FALSE
+139,Simplified Global Attendance (SGA),sga,,SGA - Simplified Global Attendance,Winterfell Wolves,FALSE
+141,ApplyWeb State Service,ss,,MyApply,Phoenix Rising,FALSE
+142,Student Application Tracker (SAT),sat,,SAT - Student Application Tracker,Avatars,TRUE
+143,SAMS Gateway,samsgw,,SAMS - Student Attendance Monitoring System,Winterfell Wolves,TRUE
+144,Student Confirmations,sconf,,Message Center,Premium,FALSE
+145,Student Letters,slet,,Letter Center,Premium,FALSE
+146,Student Processing Report (SPR),spr,,Student Processing Report (SPR),Philomaths,FALSE
+147,Student Program Summary,sps,,Program,Premium,FALSE
+148,Student Scheduling System (S3),s3ear,,S3 - Student Scheduling System,Philomaths,TRUE
+150,Support Workbench,supportwb,,Support Workbench,Philomaths,TRUE
+151,Tool for Emergency Roster Change (TERC),terc,,Tool For Emergency Roster Change (TERC),Premium,FALSE
+152,Transcript Request,treq,,Equity Award Admin,Premium,FALSE
+154,University Library,ulib,,University Library,Winterfell Wolves,FALSE
+157,View Approved Courses,vac,,FAResources,Premium,FALSE
+158,Academic Catalog,accat,,Academic Catalog,Premium,FALSE
+162,WinExport,winexp,,AW Forms,404's,TRUE
+166,My Workshops,myworkshop,,Workshops,Premium,FALSE
+167,WritePoint,wp,,eCampus Classroom Services,Premium,FALSE
+170,IM Chat Web Client (PETs Chat),pets_chat,,PETS Chat,Premium,FALSE
+171,UI Platform Core API,webcms_core_api,,UI Platform Core,Premium,TRUE
+172,Media Library API,medialibrary_api,,Library Pages,Premium,TRUE
+174,Media Library UI,medialibrary_ui,,Library Pages,Premium,TRUE
+178,Profile Editor UI,profile_editor_ui,,Profile Editor,Premium,FALSE
+180,Portal Enhancement Project (PEP),pep,,Portal Enhancement Project (PEP),Premium,TRUE
+181,Profile Editor API,profile_editor_api,,Profile Editor,Premium,TRUE
+182,PETS Email UI,pets_email_ui,,PETS Email,Premium,FALSE
+183,PETS Email API,pets_email_api,,PETS Email,Premium,TRUE
+184,Library & Materials API,materials_api,,Classroom Materials,Winterfell Wolves,FALSE
+185,Library & Materials UI,materials_ui,,Classroom Materials,Winterfell Wolves,TRUE
+186,Subversion (Config1),subversionconfig1,,Subversion,Dynamites,FALSE
+189,Discussion Services,discussionservices,,OLS3,Winterfell Wolves,FALSE
+192,PhoenixConnect,community,,Community,Premium,TRUE
+195,eBooks PPDF Handler,ppdfhadler,,eBook,Winterfell Wolves,FALSE
+196,Apollo Signed Enterprise Library,signedlibrary,,Apollo Signed Enterprise Library,Winterfell Wolves,FALSE
+197,eBooks Protected PDF,protectedpdf,,eBook,Winterfell Wolves,FALSE
+198,eBooks VitriumEIP,vitrium,,eBook,Winterfell Wolves,FALSE
+199,eBooks LCMSImageHandler,lcmsimagehandler,,eBook,Winterfell Wolves,FALSE
+201,eBooks Library2,ebookslibrary2,,eBook,Winterfell Wolves,FALSE
+202,eBooks Web Skins,ebookswebskins,,eBook,Winterfell Wolves,FALSE
+203,eBooks Menus,ebooksmenus,,Apollo Menus (eCampus Service),Premium,FALSE
+204,Menu,menu,,Apollo Menus (eCampus Service),Premium,FALSE
+205,Hudsucker,hudsucker,,Portal,Premium,FALSE
+206,Apollo Identity (client),apolloidentity,,Apollo Identity,Premium,TRUE
+211,AXIS,axis,,Apollo Extranet Identity Systems (AXIS),Premium,TRUE
+212,ActiveMQ,activemq,,Middleware Services,Bank Roller$,FALSE
+222,Domain Services Academics SIMP,acad_simp,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+223,ADSMS,adsms,,Governance,Philomaths,TRUE
+225,SSO (Old - Not in Use),apollo_key_server,,Single Sign-On (SSO),Skynet,FALSE
+226,Apollo Menus,apollo_menus,,Apollo Menus (eCampus Service),Premium,FALSE
+227,Client Library,client_library,,eCampus Legacy,Premium,FALSE
+228,Classroom Operations Management (COM),com,,Classroom Operations Management (COM),Premium,FALSE
+240,Mobile SIMP,mobilesimp,,Mobile Services,Winterfell Wolves,TRUE
+242,Discussion Request,discuss_request,,OLS3,Winterfell Wolves,FALSE
+244,Preference SIMP,preferencesimp,0244,Preference Microservice,Philomaths,TRUE
+246,Static Assets,static_assets,,Static Assets,Premium,FALSE
+247,Static Assets AWSkins,static_asset_awskins,,Static Assets,Premium,FALSE
+251,Task Engine,taskengine,,Governance,Philomaths,FALSE
+253,Horizontal Services Virus Scan,virusscan,,AdminConsole,Winterfell Wolves,FALSE
+257,Service Depot,servicedepot,,Service Depot,Avatars,TRUE
+259,Messaging,mesg,,Platform Services,Fundits,FALSE
+261,Galaxy SIMP,galaxysimp,,Profile Services,Avatars,TRUE
+262,Profile SIMP2,profilesimp2,,Profile Services,Avatars,TRUE
+263,Horizontal Services Document Management (DMGS),dmgs,,AdminConsole,Winterfell Wolves,FALSE
+264,InitiateHA (Identity Management),initiateha,,Profile Services,Avatars,TRUE
+267,University Library EZProxy,ulibezp,,University Library,Winterfell Wolves,FALSE
+268,SOA External,soa,,Service-Oriented Architecture (SOA),Bank Roller$,FALSE
+270,CAS - External (CAS2),cas2,,Single Sign-On (SSO),Skynet,TRUE
+271,Email Service,email_service,,UCP Genesys,Advantage Squad,TRUE
+272,EmailService_v2,email_service_v2,,Email Relay,Premium,TRUE
+273,Password Reset Service,passwd_service,,Change Password,Premium,FALSE
+282,Equity Award Admin,EqAA,,Equity Award Admin,Premium,FALSE
+284,AXISVerify,AXISVerify,,Apollo Extranet Identity Systems (AXIS),Premium,FALSE
+285,ScheduleGradesWS,sgws,,Schedule and Grades,Premium,FALSE
+287,BossWebService,bossws,,Binary Object Storage System (BOSS),Premium,FALSE
+288,LCMSWebService,lcmsws,,Learning Content Management System (LCMS),Premium,FALSE
+289,AXIS.ADVerify,axisadv,,Apollo Extranet Identity Systems (AXIS),Premium,FALSE
+290,Message Center Monitor,mcm,,Message Center,Premium,FALSE
+291,LCMSWindowsService,lcmswindowsservice,,Learning Content Management System (LCMS),Premium,FALSE
+292,Student 1098T,1098t,,1098T,Capital Gain$,FALSE
+296,Classroom Services,classroom_services,,eCampus Classroom Services,Premium,TRUE
+298,Material Handler,MaterialHandler,,Classroom Materials,Winterfell Wolves,FALSE
+301,FAResources,fa_resources,,FAResources,Premium,TRUE
+302,LogonEvents,logon_events,,FAResources,Premium,FALSE
+303,Faculty Lounges - FAResources,flfar,,FAResources,Premium,FALSE
+304,FAAccount,faaccount,,FAAccount,Premium,FALSE
+306,Prior Learning Assessment Center (PLAC) - Student,plac_student,,Prior Learning Assessment Center (PLAC) & Admin,Premium,FALSE
+307,AWForms Rules Webservice,awfrws,,AW Forms,404's,TRUE
+309,Faculty Training,FacTr,,FAResources,Premium,FALSE
+310,ASAP WCF Service,ASAPwsvc,,eCampus Classroom Services,Premium,FALSE
+311,ESignature,esig,,ESignature,404's,TRUE
+313,Unused Publisher,unused2,,WebCMS,Premium,FALSE
+314,Unused Author,unused,,WebCMS,Premium,FALSE
+315,Student Scheduling Systems (S3) RB,s3rb,,S3 - Student Scheduling System,Philomaths,TRUE
+316,Media Library OSGI Authoring Bundles,mediacms_auth_bundle,,Library Pages,Premium,FALSE
+317,Media Library OSGI Publisher Bundles,mediacms_pub_bundle,,Library Pages,Premium,FALSE
+318,SAMS Web,samsweb,,SAMS - Student Attendance Monitoring System,Winterfell Wolves,FALSE
+321,IM Chat Proxy,imchatproxy,,PETS Chat,Premium,TRUE
+322,IM Chat ejabberd,imchatejabberd,,PETS Chat,Premium,TRUE
+323,IM Chat Memcached,imchatmemcached,,PETS Chat,Premium,TRUE
+324,PETS Dock,pets_dock,,PETS Dock,Premium,FALSE
+327,Domain Services - Alumni,alumni,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+328,Domain Services - Organization,organization,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+329,Domain Services - Enrollment,enrollment,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+330,UI Platform Portal UI,webcms_portal_ui,,UI Platform Core,Premium,TRUE
+333,Domain Services - PetsEmail,pets_email_simp,,PETS Email,Premium,TRUE
+339,Domain Services Classroom,dsclassroom,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+342,Horizontal Services McAfee Web Gateway,hsmcafeegw,,AdminConsole,Winterfell Wolves,FALSE
+343,Horizontal Services Memcached,hsmemcached,,Horizontal service,Advantage Squad,TRUE
+344,Mobile CDS,mobilecds,,Mobile Services,Winterfell Wolves,TRUE
+345,Horizontal Services Voldemort UtilitySvcs,hsvoldemortu,,AdminConsole,Winterfell Wolves,FALSE
+346,Horizontal Services Guvnor,hsguvnor,,Horizontal service,Advantage Squad,FALSE
+348,Template Editor,template_editor,,Faculty Center,Philomaths,FALSE
+349,Native Client Framework - Core,cf_core_javascript,,WebCMS Author,Premium,FALSE
+356,ADS_SOA,ads_soa,,Service-Oriented Architecture (SOA),Bank Roller$,FALSE
+359,Business Knowledge Service,Bkmgs,,Horizontal service,Advantage Squad,TRUE
+361,Classroom - AssessmentSubmissionPersistence,assessmentSubPers,,classroom,Winterfell Wolves,FALSE
+364,New Relic,newrelic,,New Relic,Dynamites,TRUE
+371,Domain Services - Faculty,Faculty,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+372,Domain Services - Marketing,Marketing,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+373,Domain Services - Prospect,Prospect,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+374,Domain Services - Social,Social,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+375,Domain Services - Student,student,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+376,New Classroom - Classroom Service,classroom_service,,classroom,Winterfell Wolves,TRUE
+377,New Classroom - Roster Profile Service,classroom_roster,,classroom,Winterfell Wolves,FALSE
+379,ADC Profile,adc_profile,,Profile Services,Avatars,FALSE
+380,Search,search,,MediaCMS,Premium,FALSE
+381,PETS Help UI,petshelp,,PETS Help,Premium,TRUE
+382,UI Platform Devo UI,webcms_devo_ui,,UI Platform Core,Premium,FALSE
+384,Classroom5 - Assessments Service[defunct],assessments_service,,classroom,Winterfell Wolves,FALSE
+385,Classroom5 - Faculty Dashboard[defunct],faculty_db_service,,classroom,Winterfell Wolves,FALSE
+386,Classroom5 - Syllabus service[defunct],syllabus_service,,classroom,Winterfell Wolves,FALSE
+387,New Classroom - c5 Instrumentation,c5_instrumentation,,classroom,Winterfell Wolves,TRUE
+388,New Classroom - Virtual Repo,c5_virtual_repo,,classroom,Winterfell Wolves,FALSE
+389,Classroom5 - Class Build service[defunct],classbuild_service,,classroom,Winterfell Wolves,FALSE
+390,New Classroom - Discussions service,discussions_service,,classroom,Winterfell Wolves,TRUE
+391,New Classroom - Format service,format_service,,classroom,Winterfell Wolves,TRUE
+392,Classroom5 - Front End Load Balancing,classroom_fe_lb,,classroom,Winterfell Wolves,FALSE
+393,New Classroom - Riak LevelDB,classroom_riak_leveldb,,classroom,Winterfell Wolves,TRUE
+394,Classroom5 - Cognero Service,cognero_service,,classroom,Winterfell Wolves,FALSE
+395,Classroom5 - Mid Tier Load Balancing,classroom_mt_lb,,classroom,Winterfell Wolves,FALSE
+399,UI Platform Activitystream UI,activity_stream_ui,,Activity Stream,Premium,TRUE
+403,Classroom5 - ALE Faculty Dashboard[defunct],ale_fac_dashboard,,classroom,Winterfell Wolves,FALSE
+404,New Classroom - ALE Content Repository,ale_content_repo,,classroom,Winterfell Wolves,TRUE
+405,New Classroom - Assessments V2,assessments_v2,,classroom,Winterfell Wolves,FALSE
+406,New Classroom - Assignments Service,assignments_service,,classroom,Winterfell Wolves,TRUE
+408,Classroom5 - Format Author Tool[defunct],format_author,,classroom,Winterfell Wolves,FALSE
+409,New Classroom - Data Viewer,data_viewer,,classroom,Winterfell Wolves,FALSE
+410,New Classroom - ICE PDF,ice_pdf,,classroom,Winterfell Wolves,TRUE
+411,New Classroom - Syllabus V2,syllabus_v2,,classroom,Winterfell Wolves,FALSE
+415,Activity Streams Service,activity,,Activity Streams,Premium,TRUE
+419,New Classroom - Authorization,auth_service,,classroom,Winterfell Wolves,FALSE
+420,Authorization,authz,,Platform Services,Fundits,TRUE
+421,Domain Services - Analytics,analytics,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+424,Classroom IM Proxy,classroom_proxy,,PETS Chat,Premium,FALSE
+428,PETS Help API,helppet_api,,PETS Help,Premium,TRUE
+429,Faculty Dashboard,faculty_dashboard,,classroom,Winterfell Wolves,FALSE
+430,UI Platform Devo API,webcms_devo_api,,UI Platform Core,Premium,FALSE
+432,UI Platform Activitystream API,activity_stream_api,,Activity Stream,Premium,TRUE
+434,Service Depot XSL Profile,xsl_profile,,Profile Services,Avatars,FALSE
+435,Service Depot XSL Activitystream,xsl_activity,,Service Depot,Avatars,FALSE
+436,Service Depot XSL Facultydashboard,xsl_facultydashboard,,Service Depot,Avatars,FALSE
+437,Service Depot XSL ProfileVerification,xsl_profile_verify,,Service Depot,Avatars,FALSE
+438,Service Depot XSL Prospect,xsl_prospect,,Service Depot,Avatars,FALSE
+439,Messaging Lossy,mesg_lossy,,Platform Services,Fundits,FALSE
+441,Heliopolis Dashboard (quick links),heliopolis,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+442,Student Verification Process,svapp,,Student Verification Process (SVP),Philomaths,FALSE
+443,Service Depot XSL Common,xsl_common,,Service Depot,Avatars,FALSE
+444,Keyserver Voldemort Apollo,keyserver_voldemort,,Single Sign-On (SSO),Skynet,FALSE
+445,Service Depot Contracts,service_contracts,,Service Depot,Avatars,FALSE
+446,BKS Repository,bks_repository,,Horizontal service,Advantage Squad,FALSE
+448,Service Depot XSL EmployerAgreement,xsl_eav,,Service Depot,Avatars,FALSE
+450,Site Management,sitemanagement,,Site Management,Philomaths,TRUE
+452,eXp/Documentum Content,expdoccon,,eXp/Documentum,404's,TRUE
+453,eXp/Documentum - Reporting Services,exprpt,,eXp/Documentum,404's,FALSE
+454,eXp/Documentum - Web Services - Business,DocCodeRules,,eXp/Documentum,404's,TRUE
+455,eXp/Documentum - Socket Importer,expsoc,,eXp/Documentum,404's,FALSE
+458,eXp/Documentum - Doc Importers,docimport,,eXp/Documentum,404's,TRUE
+459,eXp/Documentum - Fax Importers,faximport,,eXp/Documentum,404's,FALSE
+468,Service Depot XSL Student,xsl_student,,Service Depot,Avatars,FALSE
+469,Student Scheduling Systems (S3) FCS,s3fcs,,S3 - Student Scheduling System,Philomaths,TRUE
+477,Service Depot XSL Academics,xsl_academics,,Service Depot,Avatars,FALSE
+478,PETS Calendar API,pets_calendar_api,,PETS Calendar,Premium,TRUE
+479,Routing Configuration Deployer,RCD,,Platform Services,Fundits,TRUE
+482,New Classroom - ALE Tutor Service,ale_tutor_service,,classroom,Winterfell Wolves,TRUE
+483,New Classroom - ALE Metadata Service,ale_metadata_service,,classroom,Winterfell Wolves,TRUE
+485,New Classroom - ALE Tutor Assessment,ale_tutor_assessment,,classroom,Winterfell Wolves,TRUE
+486,Service Depot XSL Faculty,xsl_faculty,,Service Depot,Avatars,FALSE
+487,Routing Configuration For Core Team,routing_config_core,,Platform Services,Fundits,TRUE
+488,Socket Importer,socketimporter,,eXp/Documentum,404's,FALSE
+489,Routing Configuration for Profile Editor,rcd_profileeditor,,Profile - global,Avatars,FALSE
+490,Service Depot XSL Horizontal,xsl_horizontal,,Horizontal service,Advantage Squad,FALSE
+491,MarkLogic,marklogic,,classroom,Winterfell Wolves,FALSE
+493,Domain Services - PetsCalendar,pets_calendar_simp,,PETS Calendar,Premium,TRUE
+494,PETS Calendar UI,pets_calendar_ui,,PETS Calendar,Premium,FALSE
+496,New Classroom - Provisioning,classroom_provision,,classroom,Winterfell Wolves,FALSE
+497,Media Conversion Bundle,conversion_bundle,,Equity Award Admin,Premium,FALSE
+507,PeopleSoft HCM,hcm,,MyHR,High Roller$,TRUE
+508,PeopleSoft ELM,el,,MyHR,High Roller$,FALSE
+512,Horizontal Services Document Management Exp (DMGSE),dmgse,,AdminConsole,Winterfell Wolves,FALSE
+514,Agile Statistics,agile_statistics,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+515,Call Tracking,call_tracking,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+516,Code Statistics,code_statistics,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+517,DDR,ddr,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+520,Impact Logger,impact_logger,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+522,Measurements,measurements,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+523,Quality Center Statistics,qc_statistics,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+532,Service Contract: Activity Stream,activity_contracts,,Service Depot,Avatars,FALSE
+533,Service Depot XSL Friend,xsl_friend,,Service Depot,Avatars,FALSE
+535,User Provisioning SIMP,upsimp,,Shared Domain Services,Firebird,TRUE
+536,UI Platform Tenant API,webcms_tsds_api,,Tenant,Premium,TRUE
+541,Service Depot XSL Notification,xsl_notification,,Service Depot,Avatars,FALSE
+542,Productivity Domain - User Provisioning - PDUP,pdup,,PDUP,Premium,TRUE
+543,Campus College Content (CCC),ccc,,eCampus/Campus Pages,Premium,FALSE
+545,Service Contract: Access Manager,am_contracts,,Service Depot,Avatars,FALSE
+546,eXp/Documentum - PDF Converter,exppdfconverter,,eXp/Documentum,404's,FALSE
+547,Tenant Specific UI (UOP UI),webcms_uop_ui,,Tenant,Premium,TRUE
+550,Service Depot XSL Opportunity,xsl_opportunity,,Service Depot,Avatars,FALSE
+551,Service Contract: Business Knowledge Service,bks_contracts,,Service Depot,Avatars,FALSE
+552,Service Contract: Virus Scan,virusscan_contracts,,Service Depot,Avatars,FALSE
+553,Service Contract: Authorization,authz_contracts,,Service Depot,Avatars,FALSE
+555,Service Contract: Friend Service,friend_contracts,,Service Depot,Avatars,FALSE
+556,Service Contract: Common Contracts,common_contracts,,Service Depot,Avatars,FALSE
+560,Service Contract: MCDS,mcds_contracts,,Mobile Services,Winterfell Wolves,FALSE
+561,PETS Bootstrapper,pets_bootstrapper,,PETS Chat,Premium,FALSE
+562,Pets Chat,petschat,,PETS Chat,Premium,FALSE
+563,Native Client Framework - Caching,ncf_cache_engine,,WebCMS Author,Premium,FALSE
+564,Native Client Framework - Third Party,ncf_third_party,,WebCMS Author,Premium,FALSE
+566,User Attribute Engine,uaengine,,Equity Award Admin,Premium,FALSE
+567,Service Contract: Messaging,messaging_contracts,,Service Depot,Avatars,FALSE
+568,Native Client Framework - Bess-Deprecated,ncf_bess,,WebCMS Author,Premium,FALSE
+570,Student Service,studentservice,,Student Verification Process (SVP),Philomaths,TRUE
+572,Native Client Framework - Logging,ncf_logging,,WebCMS Author,Premium,FALSE
+573,Native Client Framework - Messaging,ncf_messaging,,WebCMS Author,Premium,FALSE
+574,Service Depot XSL Student Program,xsl_studentprogram,,Service Depot,Avatars,FALSE
+579,Pets IM CDS,pets_im,,PETS Chat,Premium,TRUE
+580,Administration Console,adminconsole,,AdminConsole,Winterfell Wolves,TRUE
+581,Service Contract: Organization,org_contracts,,Service Depot,Avatars,FALSE
+582,Campus Pages,cpages,,eCampus/Campus Pages,Premium,FALSE
+583,MCPlugin,mcp,,Message Center,Premium,FALSE
+585,Service Contract: Notification Service,notification_contra,,Service Depot,Avatars,FALSE
+586,Workshop Admin,workshopadmin,,Workshops,Premium,FALSE
+590,ClassOps Work Bench (CWB) - Service,CWBService,,CWB - ClassOps WorkBench,Premium,FALSE
+593,OLS3 Request,OLS3Request,,CWB - ClassOps WorkBench,Premium,FALSE
+594,Sams Attendance,SAMSattnd,,SAMS - Student Attendance Monitoring System,Winterfell Wolves,FALSE
+595,TScan,tscan,,TScan,Premium,FALSE
+596,Service Depot XSL Organization,xsl_organization,,Service Depot,Avatars,FALSE
+597,OlAdmin,oladmin,,Equity Award Admin,Premium,FALSE
+598,Platform Memcache,platform_memcache,,Platform Services,Fundits,TRUE
+600,Open LDAP,openldap,,Equity Award Admin,Premium,FALSE
+601,Program & Curriculum REST Simp,pc_rs,,Platform Academic Services,Winterfell Wolves,TRUE
+602,SAMS OLSRepository,olsrepository,,SAMS - Student Attendance Monitoring System,Winterfell Wolves,FALSE
+603,Academics UOP REST Simp,uop_ac_rs,,Platform Academic Services,Winterfell Wolves,TRUE
+605,Organization Service Rest SIMP,organizationservice,,Organizations Microservice,Philomaths,TRUE
+607,Outcome Service,outcomeservice,,Platform Academic Services,Winterfell Wolves,TRUE
+608,Service Contract: Company Contracts,company_contracts,,Service Depot,Avatars,FALSE
+609,Native Client Framework - Templating,ncf_templating,,WebCMS Author,Premium,FALSE
+613,Cloud Statistics,cloud_statistics,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+614,Self Service,self_service,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+615,SVN Self Service,scm_self_service,,SVN Self Service,Cloud Ninjas,FALSE
+617,Service Contract: PetsCalendar,calendar_contracts,,PETS Calendar,Premium,FALSE
+618,Bamboo Build Agent Windows,bamboowin,BARB,Bamboo,Dynamites,TRUE
+619,Bamboo Build Agent Linux,bamboolinux,barb,Bamboo,Dynamites,TRUE
+620,Clover,clover,,Bamboo,Dynamites,FALSE
+621,NCover,ncover,,Bamboo,Dynamites,FALSE
+623,Native Client Framework - Connectors,ncf_connectors,,WebCMS Author,Premium,FALSE
+624,New Classroom - Activity Repository,activity_repository,,classroom,Winterfell Wolves,FALSE
+625,New Classroom - ALE Socratic Tree,ale_socratic_tree,,classroom,Winterfell Wolves,TRUE
+626,New Classroom - ALE TFA Builder,ale_tfa_builder,,classroom,Winterfell Wolves,FALSE
+627,New Classroom - Auth Service V2,auth_service_v2,,classroom,Winterfell Wolves,TRUE
+628,New Classroom - BLTI V3,blti_v3,,classroom,Winterfell Wolves,TRUE
+629,New Classroom - Curriculum,curriculum,,classroom,Winterfell Wolves,TRUE
+630,New Classroom - Grading,grading,,classroom,Winterfell Wolves,TRUE
+631,New Classroom - Classroom Roster V2,classroom_roster_v2,,classroom,Winterfell Wolves,TRUE
+632,New Classroom - Resource Resolver,resource_resolver,,classroom,Winterfell Wolves,TRUE
+633,New Classroom - Syllabus V3,syllabus_v3,,classroom,Winterfell Wolves,FALSE
+636,New Classroom - ALE Knowledge Extraction,knowledge_extraction,,classroom,Winterfell Wolves,FALSE
+637,New Classroom - Provisioning V2,provisioning_v2,,classroom,Winterfell Wolves,TRUE
+638,New Classroom - Search,classroom_search,,classroom,Winterfell Wolves,FALSE
+639,Service Contract: Program Offering Service,program_offering,,Service Depot,Avatars,FALSE
+641,Media Library Assetuploadservice,asset_upload_service,,Library Pages,Premium,TRUE
+649,Platform Monitoring and Tools (PMTS),pmts,,Platform Services,Fundits,TRUE
+650,AdminCDS,admincds,,AdminConsole,Winterfell Wolves,FALSE
+651,Routing Configuration for Authorization,routing_config_authz,,Platform Services,Fundits,TRUE
+652,MCDS Routing Config,MCDSROUTING,,Mobile Services,Winterfell Wolves,TRUE
+653,Service Contract: Admissions Application,adm_contracts,,Service Depot,Avatars,FALSE
+655,Keyserver Apollo,keyserver,,Single Sign-On (SSO),Skynet,TRUE
+656,SSO Apollo,sso,,Single Sign-On (SSO),Skynet,TRUE
+658,New Classroom - Messaging Proxy,messaging_proxy,,classroom,Winterfell Wolves,TRUE
+669,corp.root,corp.root,,Active Directory,Skynet,FALSE
+670,apollogrp.edu,apollogrp.edu,,Active Directory,Skynet,FALSE
+672,adminols.phoenix.edu,adminols.phoenix.edu,,Active Directory,Skynet,FALSE
+673,wiuols.root,wiuols.root,,Active Directory,Skynet,FALSE
+674,apollosrc.root,apollosrc.root,,Active Directory,Skynet,FALSE
+675,apolloglobal.int,apolloglobal.int,,Active Directory,Skynet,FALSE
+676,Chef Server,chef,,Chef,Future Bytes,FALSE
+677,Service Contract:  CourseOffering Service,course_offering,,Service Depot,Avatars,FALSE
+680,PETS-Client-Core,pets_cl_core,,PETS Dock,Premium,FALSE
+681,PETS-Client-Chat,pets_cl_chat,,PETS Chat,Premium,FALSE
+685,PETS-Client-Contacts,pets_cl_contacts,,PETS Contacts,Premium,FALSE
+687,PETS-Client-Thirdparty,pets_cl_thirdparty,,PETS Dock,Premium,FALSE
+694,Profile Editor UI GWT,profile_editor_gwt,,Profile Editor,Premium,TRUE
+695,ols.phoenix.edu,ols.phoenix.edu,,Active Directory,Skynet,FALSE
+696,SF Enrollment Advisor,salesforce_ea,,Salesforce,Dare Devils,FALSE
+697,SF Financial Advisor,salesforce_fa,,Salesforce,Dare Devils,FALSE
+698,SF Financial Aid,salesforce_afa,,Salesforce,Dare Devils,FALSE
+699,SF Workforce Solutions Advisors,salesforce_wfs,,Salesforce,Dare Devils,FALSE
+700,SF Technical Assistance Center,salesforce_tac,,Salesforce,Dare Devils,FALSE
+703,WebCMS Dispatchers,webcms_dispatchers,,UI Platform Core,Premium,FALSE
+704,Heliopolis Release Test,heliopolis_test,,Deployment Test App,Cloud Ninjas,TRUE
+705,SCCM Web Service,sccmws,,Microsoft Intune,morphEUS,FALSE
+706,Splunkopolis,splunkopolis,,Splunk,Dynamites,FALSE
+708,Native Client Framework - Promises,ncf_promises,,WebCMS Author,Premium,FALSE
+709,Day CQ Dispatcher,dcq_dispatcher,,WebCMS,Premium,FALSE
+710,Day CQ Publisher,dcq_publisher,,WebCMS,Premium,FALSE
+711,Day CQ Author,dcq_author,,WebCMS,Premium,FALSE
+712,Splunk,splunk,,Splunk,Dynamites,TRUE
+713,Latitude,latitude,,Latitude,Capital Gain$,TRUE
+714,Academic Program Service,academicprogramsvc,,Shared Academic Services,Phoenix Wizards,TRUE
+717,Profile Search,profilesearch,,Profile Services,Avatars,FALSE
+718,OSB,osb,,Middleware Oracle Integration Suite,Bank Roller$,FALSE
+719,Service Contract: Program,program_contracts,,Service Depot,Avatars,FALSE
+720,Profile Search Datahandler,psdatahandler,,Profile Services,Avatars,FALSE
+721,Domain Services - PetsEmail Routing Config,email_routing_config,,PETS Email,Premium,FALSE
+724,Commence Web Student,commencewebstudent,,Commencement Web & Admin,Premium,FALSE
+728,mediacms,mediacms,,MediaCMS,Premium,FALSE
+731,SAS Residency,sasresidency,,SASWeb - School of Advanced Studies Web,Premium,FALSE
+740,LDAA Calc,ldaa,,LDAA Calc,Winterfell Wolves,TRUE
+746,boss,boss,,Binary Object Storage System (BOSS),Premium,TRUE
+748,librarysearchcatsimp,librarysearchcatsimp,,University Library,Winterfell Wolves,FALSE
+751,lmsadmin,lmsadmin,,All-In-One,Premium,FALSE
+754,messagecenter,messagecenter,,Message Center,Premium,FALSE
+760,SGA Attendance Poster,sgaattendanceposter,,SGA - Simplified Global Attendance,Winterfell Wolves,FALSE
+764,mediacmscategories,mediacmscategories,,MediaCMS,Premium,FALSE
+766,SGA Attendance Service,sgaattendance,,SGA - Simplified Global Attendance,Winterfell Wolves,FALSE
+770,Course Availability Svc,cavailabilitysvc,,Platform Academic Services,Winterfell Wolves,FALSE
+773,SGA Service,sgaservice,,SGA - Simplified Global Attendance,Winterfell Wolves,FALSE
+776,build_file,build_file,,Equity Award Admin,Premium,FALSE
+777,gwt_profileeditor_cds,gwt_profileeditor,,Profile Editor,Premium,FALSE
+778,Rearch_Batch,rearch_batch,,IS3,Philomaths,FALSE
+779,SGA Web,sgaweb,,SGA - Simplified Global Attendance,Winterfell Wolves,FALSE
+783,ols3classroomviewer,ols3classroomviewer,,OLS3,Winterfell Wolves,FALSE
+784,IC,ic,,Integrated Classroom,Premium,TRUE
+787,ols3services,ols3services,,OLS3,Winterfell Wolves,FALSE
+789,Demographics,demographics,,eCampus Legacy,Premium,FALSE
+791,cccservice,cccservice,,Equity Award Admin,Premium,FALSE
+793,cdse,cdse,,Equity Award Admin,Premium,FALSE
+794,cdsx,cdsx,,Equity Award Admin,Premium,FALSE
+795,chatclient,chatclient,,PETS Chat,Premium,FALSE
+796,classroomdataservices,classroom_data,,eCampus Classroom Services,Premium,TRUE
+799,Initiate,initiate,,Profile Services,Avatars,FALSE
+804,adaservice,adaservice,,classroom,Winterfell Wolves,FALSE
+805,ada,ada,,classroom,Winterfell Wolves,FALSE
+806,Workshop Email Process,workshopep,,Workshops,Premium,FALSE
+808,ebooks Collection,ebookcollection,,eBook,Winterfell Wolves,FALSE
+814,archive,archive,,Equity Award Admin,Premium,FALSE
+816,awformstemplates,awformstemplates,,Equity Award Admin,Premium,FALSE
+819,IIRA,iira,,Profile Services,Avatars,FALSE
+821,Platform Test App,platformtestapp,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+822,Platform Mock Library Simp,platformmocklibsimp,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+823,Platform CAS,platformcas,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+825,Program Offering Contract,programoffercontract,,DS-SOAP SIMP (Deprecated),Bank Roller$,FALSE
+827,HelioBundle,heliobundle,,HelioBundle,Cloud Ninjas,FALSE
+828,RubyGems,gems,,RubyGems,Future Bytes,FALSE
+832,Classroom Services - Assessment Results,assessmentresults,,classroom,Winterfell Wolves,FALSE
+838,MyWIU,mywiu,,MyWIU,Horizon,TRUE
+839,Routing Configuration For Jive,routing_config_jive,,Community,Premium,FALSE
+841,Author Preview Service,aps,,WebCMS,Premium,FALSE
+842,Domain Services - Pets Calendar Aggregation,pets_calendar_agg,,PETS Calendar,Premium,TRUE
+843,New Classroom - Authoring Metadata,authoring_metadata,,classroom,Winterfell Wolves,FALSE
+844,Media CMS Utils,mediacmsutils,,MediaCMS,Premium,FALSE
+845,Routing Configuration For Argonauts Team - UOP,routing_uop_argo,,Platform Services,Fundits,FALSE
+847,Media Search Service,mediasearchservice,,MediaCMS,Premium,FALSE
+848,Media PDF Generator,pdfgenerator,,MediaCMS,Premium,FALSE
+849,Media CMS Core,mediaCMS_core,,MediaCMS,Premium,FALSE
+850,Media Ingestion Service,ingestionservice,,MediaCMS,Premium,FALSE
+851,New Classroom - Peg Service,peg_service,,classroom,Winterfell Wolves,TRUE
+857,Media CMS Model,mediacmsmodel,,MediaCMS,Premium,FALSE
+858,Media Ingestion Download Handler,ingestiondownloader,,MediaCMS,Premium,FALSE
+859,AuthenticationDepot,authdepot,,Single Sign-On (SSO),Skynet,TRUE
+861,Media Ingestion Frameworkv2,inges_frameworkv2,,MediaCMS,Premium,FALSE
+862,Media Ingestion BIP,BIP,,MediaCMS,Premium,FALSE
+863,Media Ingestion Upload Handler,inges_uploadhandler,,MediaCMS,Premium,FALSE
+864,Media Ingestion SyncManagerv2,inges_syncmanager,,MediaCMS,Premium,FALSE
+865,Media Ingestion Conversion Handler,inges_convrsnhandler,,MediaCMS,Premium,FALSE
+867,PeopleSoft Financial Aid,psfa,,PeopleSoft Financial Aid,High Roller$,FALSE
+868,Routing Configuration Activity Stream API,rcd_astreamapi,,Activity Stream,Premium,FALSE
+869,SOA Composite 11g,soa11g,,Middleware Oracle Integration Suite,Bank Roller$,FALSE
+870,OPWeb,OPWeb,,Financial Aid Custom Apps,High Roller$,FALSE
+872,Disbursement Tool (DisbWeb),DisbWeb,,Financial Aid Custom Apps,High Roller$,FALSE
+873,SARSStudentImporter,SARSSI,,Financial Aid Custom Apps,High Roller$,FALSE
+874,CIEMS,CIEMS,,Financial Aid Custom Apps,High Roller$,FALSE
+875,CANDE,CANDE,,Financial Aid Custom Apps,High Roller$,FALSE
+876,RefundWeb,RefundWeb,,Financial Aid Custom Apps,High Roller$,FALSE
+877,WIU-FARM,WIUFARM,,Financial Aid Custom Apps,High Roller$,FALSE
+878,FARM,FARM,,Financial Aid Custom Apps,High Roller$,FALSE
+879,CertQA,CertQA,,Financial Aid Custom Apps,High Roller$,FALSE
+880,ProcessingProceduresFAQ,FAQ,,Financial Aid Custom Apps,High Roller$,FALSE
+881,TTP,TTP,,Financial Aid Custom Apps,High Roller$,FALSE
+882,UploaderHelper,UploaderHelper,,Financial Aid Custom Apps,High Roller$,FALSE
+883,NewAidYear,NewAidYear,,Financial Aid Custom Apps,High Roller$,FALSE
+884,RoboHelp,RoboHelp,,Financial Aid Custom Apps,High Roller$,FALSE
+885,AutoDisbQAHolds,AutoDisbQAHolds,,Financial Aid Custom Apps,High Roller$,FALSE
+886,AutoRefundHolds,AutoRefundHolds,,Financial Aid Custom Apps,High Roller$,FALSE
+887,ISIRBump,ISIRBump,,Financial Aid Custom Apps,High Roller$,FALSE
+889,Relationship Simp,relationshipsimp,,Platform Services,Fundits,TRUE
+892,Profile Search Data Import,psdataimport,,Profile Services,Avatars,FALSE
+894,Cognero Web/App - Student,cognero_web_student,,classroom,Winterfell Wolves,FALSE
+895,Cognero SQL,cognero_sql,,classroom,Winterfell Wolves,FALSE
+898,Helioworker,helioworker,,RADT,Cloud Ninjas,FALSE
+899,Universal Bootstrapper,universalbootstrap,,RADT,Cloud Ninjas,FALSE
+911,imchat_lb,imchat_lb,,PETS Chat,Premium,FALSE
+920,nagiosprod1,imchat_nagios,,PETS Chat,Premium,FALSE
+925,Oracle Financials,financials,,Oracle Financials,Capital Gain$,TRUE
+928,Domain Services - Pets Calendar Aggregation Routing,calendar_agg_routing,,PETS Calendar,Premium,FALSE
+931,Terc Web Reports,tercwebreports,,Tool For Emergency Roster Change (TERC),Premium,FALSE
+935,Routing Config Core-API,routingconfigcoreapi,,Platform Services,Fundits,FALSE
+939,New Classroom - Riak Mem,classroom_riak_mem,,classroom,Winterfell Wolves,FALSE
+940,Classroom Allegrograph,classallegrograph,,classroom,Winterfell Wolves,FALSE
+941,ICAP AV,icapav,,ICAP AV,Winterfell Wolves,FALSE
+942,SOLR,solr,,Support Workbench,Philomaths,FALSE
+943,SOLR - ALE,solr_ale,,classroom,Winterfell Wolves,FALSE
+947,SVN server,svn_server,,Subversion,Dynamites,FALSE
+950,Learner Model Dashboard,lm_dashboard,,Learning Analytics (P-Wave),Data Knights,FALSE
+953,Media Library Authoring Service,authoringservice,,MediaCMS,Premium,FALSE
+954,Learner Model Analytics,lm_analytics,,Learning Analytics (P-Wave),Data Knights,FALSE
+955,RDS Management,rds_management,,classroom,Winterfell Wolves,FALSE
+956,UI platform memcache,ui_platform_memcache,,UI Platform Core,Premium,FALSE
+957,Classroom HAProxy,classroom_haproxy,,classroom,Winterfell Wolves,FALSE
+959,IM Chat HAproxy,imchathaproxy,,PETS Chat,Premium,FALSE
+960,Pets Email Memcached,pets_email_memcached,,PETS Email,Premium,FALSE
+962,Activity Stream Mongo2,as_mongo2,,Activity Streams,Premium,TRUE
+967,CAS2_LDAP,cas2_ldap,,Single Sign-On (SSO),Skynet,FALSE
+972,Privacy SIMP,privacysimp,,Profile Services,Avatars,TRUE
+973,PETS-Client-Email,pets_cl_email,,PETS Email,Premium,FALSE
+976,Classroom (Bundles),Classroom,,classroom,Winterfell Wolves,FALSE
+977,Horizontal Services LDAP Schema,opendj_schema,,Platform Services,Fundits,FALSE
+978,New Classroom - Spellcheck Service,spellcheck_service,,classroom,Winterfell Wolves,TRUE
+984,Routing Config for PetsChat,chat_routing_config,,PETS Chat,Premium,FALSE
+985,Routing Configuration Calendar,calendar_routing_cfg,,PETS Calendar,Premium,FALSE
+988,Osiris,Osiris,,OSIRIS - Online Student Information Records Inquiry System,Phoenix Wizards,TRUE
+989,Synchronous Learning API,sync_learning_api,,Profile Editor,Premium,FALSE
+990,Synchronous Learning SIMP,sync_learning_simp,,Profile Editor,Premium,FALSE
+991,New Classroom - Auto Publishing,auto_publishing,,classroom,Winterfell Wolves,TRUE
+994,Horizontal REST SIMP,hz_rs,,Horizontal service,Advantage Squad,TRUE
+996,Search API,searchAPI,,Search Platform,SMEEs,TRUE
+997,Middleware Web Application,mwwebapp,,Middleware Oracle Integration Suite,Bank Roller$,FALSE
+999,Quickstart CDS,quickstart_cds,,AdminConsole,Winterfell Wolves,FALSE
+1000,Access manager,accessmanager,,AdminConsole,Winterfell Wolves,FALSE
+1002,Administration console control,edu.apollogrp.admin,,AdminConsole,Winterfell Wolves,FALSE
+1003,Pull Model Bootstrap,pullmodelbootstrap,,RADT,Cloud Ninjas,FALSE
+1004,PETS-Client-Help,pets_cl_help,,PETS Help,Premium,FALSE
+1007,quickstart_ui,quickstart_ui,,Platform Academic Services,Winterfell Wolves,FALSE
+1008,Content Pipeline API,contentpipeline,,Content Pipeline,Premium,TRUE
+1009,WebCMS Dispatchers - UOP,disp,,WebCMS,Premium,FALSE
+1017,Routing Configuration For Classroom Team,routing_config_class,,classroom,Winterfell Wolves,FALSE
+1018,New Classroom - Tutor Reports,tutor_reports,,classroom,Winterfell Wolves,TRUE
+1019,New Classroom - Recommendations,recommendations,,classroom,Winterfell Wolves,TRUE
+1020,New Classroom - Assessments V3,assessments_v3,,classroom,Winterfell Wolves,TRUE
+1021,New Classroom - Assessments Admin V3,assessments_admin_v3,,classroom,Winterfell Wolves,TRUE
+1023,P-Wave,pwave,,Learning Analytics (P-Wave),Data Knights,TRUE
+1027,New Classroom - BLTI Provider,blti_provider,,classroom,Winterfell Wolves,TRUE
+1029,SOLR Platform,solrPlatform,,Search Platform,SMEEs,FALSE
+1031,core platform service clean up tools,core_cleanup_tools,,Platform Services,Fundits,FALSE
+1033,PETS-Client-Calendar,pets_cl_calendar,,PETS Calendar,Premium,FALSE
+1036,Search API Routing Config,SEARCHROUTING,,Search Platform,SMEEs,TRUE
+1041,Activity Stream UI GWT,activitystreamui_gwt,,Activity Stream,Premium,TRUE
+1043,Content Author,content_author,,Content Pipeline,Premium,TRUE
+1044,PETS Chat POC,petschat_poc,,PETS Chat,Premium,FALSE
+1050,Dynamic Application Settings,dynamicappsettings,,Dasm Zookeeper,Winterfell Wolves,TRUE
+1053,Heliopolis DB - heliopolis,heliopolis_db,hedb,deathBURRITO,Cloud Ninjas,TRUE
+1054,Heliopolis DB - heliopolis_deployment,heliopolis_deployment_db,hddb,RADT,Cloud Ninjas,TRUE
+1056,Heliopolis DB - heliopolis_logs,heliopolis_logs_db,hldb,RADT,Cloud Ninjas,TRUE
+1058,Message Center Messaging,mcmessaging,,Message Center,Premium,FALSE
+1059,eXp/Documentum - Web Services - Student,SearchAndRetrieval,,eXp/Documentum,404's,TRUE
+1060,Faculty Preferences - FAResources,facpref,,FAResources,Premium,FALSE
+1061,Routing Config Core-API UOP,routconfiguopcoreapi,,Platform Services,Fundits,FALSE
+1064,Aggregation Service,aggregation,,Aggregation Service,Winterfell Wolves,TRUE
+1065,Artifact Exchange,artifact_exchange,,classroom,Winterfell Wolves,FALSE
+1066,Learner Profile Services,learnerprofile,,Learner Profile,Winterfell Wolves,TRUE
+1070,Routing Config ContentPipeline,routing_config_cp,,Content Pipeline,Premium,FALSE
+1072,Templates-Deprecated,templates,,Templating,Premium,FALSE
+1075,Windows Application Installer,windowsappinstaller,,Automation Tools,Cloud Ninjas,FALSE
+1077,Global People Search,GPSUI,,Community,Premium,FALSE
+1079,RoutingConfig-uop-OlsGradebook,routing_olsgradebook,,Gradebook,Winterfell Wolves,FALSE
+1080,Routing Configuration for Assessments Team,rout_uop_assessments,,Platform Services,Fundits,FALSE
+1081,Message Center Client,mcclient,,Message Center,Premium,FALSE
+1082,Authorization Repository,repository,,Platform Services,Fundits,TRUE
+1084,CPP Web Payments,CPP_Web_Payments,,Financial Services Platform,Capital Gain$,FALSE
+1087,eCampus Legacy,ecampus_legacy,,eCampus Legacy,Premium,TRUE
+1090,SCOM Agent,scom_agent,,System Center Operations Manager,Skynet,FALSE
+1091,ClassroomControlCenter,classroomcontrolcenter,,AdminConsole,Winterfell Wolves,TRUE
+1095,Golden Gate,goldengate,,GoldenGate,Data Divers,FALSE
+1099,Tableau,tableau,,Tableau,The Fast and the Curious,FALSE
+1100,Informatica,informatica,,Informatica,Data Divers,TRUE
+1101,Heliosuppress,heliosuppress,,RADT,Cloud Ninjas,FALSE
+1102,Classroom Data Services (CDS),ic_cds,,Integrated Classroom,Premium,FALSE
+1103,New Classroom - Syllabus Author,syllabus_author,,classroom,Winterfell Wolves,TRUE
+1104,New Classroom - Classroom Middleware,classroom_middleware,,classroom,Winterfell Wolves,TRUE
+1105,New Classroom - Syllabus Reader,syllabus_reader,,classroom,Winterfell Wolves,TRUE
+1106,Dasm Zookeeper,dasm_zookeeper,,Dasm Zookeeper,Winterfell Wolves,FALSE
+1108,New Classroom - Activity Repo Author,activity_repo_author,,classroom,Winterfell Wolves,TRUE
+1109,New Classroom - Activity Repo Reader,activity_repo_reader,,classroom,Winterfell Wolves,TRUE
+1110,Apollo ECampus Web Password,ecampuspassword,,Program,Premium,FALSE
+1111,Login Manager,loginmanager,,AdminConsole,Winterfell Wolves,FALSE
+1112,Apollo ECampus Web Program,ecampusprogram,,Program,Premium,FALSE
+1113,SOLR - Classroom,solr_classroom,,classroom,Winterfell Wolves,FALSE
+1114,Classroom Control Center Plugin,c3plugin,,AdminConsole,Winterfell Wolves,TRUE
+1115,Configuration Manager,config_mgr,,AdminConsole,Winterfell Wolves,FALSE
+1116,Adminconsole Dashboard,dashboard,,AdminConsole,Winterfell Wolves,FALSE
+1117,Quickstart,quickstart,,AdminConsole,Winterfell Wolves,FALSE
+1118,Access Manager UI,accessmanager_ui,,AdminConsole,Winterfell Wolves,TRUE
+1119,Lightweight Gateway,lightWeightGateway,1119,Platform Services,Fundits,TRUE
+1123,New Classroom - Discussions Events,discussions_events,,classroom,Winterfell Wolves,TRUE
+1124,Apollo Knowledge Services,services,,Apollo knowledge services,Winterfell Wolves,FALSE
+1125,New Classroom - Rubrics,rubrics,,classroom,Winterfell Wolves,TRUE
+1126,Admission REST SIMP,admission,,Application Center,Phoenix Rising,TRUE
+1128,FAAccount-Faculty,faaccount_faculty,,FAAccount,Premium,FALSE
+1129,New Classroom - classroom te,classroom_te,,classroom,Winterfell Wolves,TRUE
+1130,Classroom FE HAProxy,classroom_fe,,classroom,Winterfell Wolves,TRUE
+1132,FAAccount-FacultyContracts,faaccount_facultycontracts,,FAAccount,Premium,FALSE
+1133,FAAccount-Faculty Stock options,faaccount_facultystockoptions,,FAAccount,Premium,FALSE
+1134,FAAccount-FacultyPayhistory,faaccount_facultypayhistory,,FAAccount,Premium,FALSE
+1135,Apollo Knowledge Admin,admin,,Apollo knowledge services,Winterfell Wolves,FALSE
+1139,Analytics Service,learner_analytics_api,,Learner Analytics,Winterfell Wolves,TRUE
+1140,New Classroom Analytics Dashboard,analytics_dashboard,,classroom,Winterfell Wolves,FALSE
+1141,Asynchronous Bootstrapper,asyncbootstrap_aws,,RADT,Cloud Ninjas,FALSE
+1143,ACPproxy,acpproxy,acpx,RADT,Cloud Ninjas,TRUE
+1144,New Classroom - Tutor Reports 2,tutor_reports_2,,classroom,Winterfell Wolves,FALSE
+1145,New Classroom - Discussions mobile,discussions_mobile,,classroom,Winterfell Wolves,FALSE
+1146,New Classroom - Discussions RO,discussions_ro,,classroom,Winterfell Wolves,FALSE
+1148,Privacy Manager,privacymanager,,AdminConsole,Winterfell Wolves,FALSE
+1149,DAO Admin,daoadmin,,MyServices,Premium,FALSE
+1150,Application Center,application_center,,Application Center,Phoenix Rising,TRUE
+1151,New Classroom - Discussions Cleanup,discussions_cleanup,,classroom,Winterfell Wolves,TRUE
+1163,fep-ncf-all,fep_ncf_all,,Templating,Premium,TRUE
+1164,fep-api,fep_api,,Templating,Premium,TRUE
+1165,fep-ux-core-templates,fep_ux_core_templates,,Templating,Premium,TRUE
+1166,PETS-Client-Core-Templates,pets_cl_core_templates,,PETS Dock,Premium,TRUE
+1167,PETS-Client-Email-Templates,pets_cl_email_templates,,Templating,Premium,TRUE
+1168,Test Runner,testrunner,,RADT,Cloud Ninjas,FALSE
+1170,ProfileEditor_Templates,profileeditor_templates,,Templating,Premium,TRUE
+1171,PETS-Client-Chat-Templates,pets_cl_chat_templates,,PETS Chat,Premium,TRUE
+1172,PETS-Client-Thirdparty-Templates,pets_cl_thirdparty_templates,,PETS Dock,Premium,TRUE
+1173,PETS-Client-Help-Templates,pets_cl_help_templates,,PETS Help,Premium,TRUE
+1174,Faculty-Experience-Templates,faculty_experience_templates,,Templating,Premium,TRUE
+1175,Apply-Templates,apply_templates,,Templating,Premium,TRUE
+1176,PETS-Client-Calendar-Templates,pets_cl_calendar_templates,,PETS Calendar,Premium,TRUE
+1177,Global People Search UI,gpsui_templates,,Community,Premium,FALSE
+1178,Content EZProxy,content_ezproxy,,University Library,Winterfell Wolves,FALSE
+1179,Hyperion Financial Data Quality Managemt,hyperion_fdm,,Hyperion,Capital Gain$,FALSE
+1181,Email Service Routing,emailservicesrouting,,UCP Genesys,Advantage Squad,TRUE
+1182,Student Activity Platform,sac_ui_components,,Student Activity Center,X-Force,FALSE
+1183,Student Activity Platform Events,sac_events_components,,Student Activity Center,X-Force,FALSE
+1184,Routing Configuration for Assessments Reporting,rout_uop_asmts_rept,,classroom,Winterfell Wolves,FALSE
+1185,Classroom Services - Assessments Reporting,assessmentsreports,,classroom,Winterfell Wolves,FALSE
+1187,Guardians Horizontal Services,hzservices,,Horizontal service,Advantage Squad,TRUE
+1188,Aggregation - Memcache,agg_memcache,,Aggregation Service,Winterfell Wolves,FALSE
+1189,Classroom - nginx,class_nginx,,classroom,Winterfell Wolves,FALSE
+1190,Knowledge AllegroGraph,know_ag,,classroom,Winterfell Wolves,FALSE
+1193,New Classroom - API Explorer,api_explorer,,classroom,Winterfell Wolves,TRUE
+1194,New Classroom - StepByStep,stepbystep_app,,classroom,Winterfell Wolves,TRUE
+1195,fep-user-registration-templates,fep_user_registration_templates,,Templating,Premium,TRUE
+1196,Zookeeper Platform,zookeeper,,Search Platform,SMEEs,FALSE
+1197,UCP Genesys Media,ucp_genm,,UCP Genesys,Advantage Squad,FALSE
+1198,UCP Genesys Outbound,ucp_geno,,UCP Genesys,Advantage Squad,FALSE
+1199,UCP Genesys SIP,ucp_gensip,,UCP Genesys,Advantage Squad,FALSE
+1200,UCP Genesys Gplus Adapter,ucp_genga,,UCP Genesys,Advantage Squad,FALSE
+1201,UCP Genesys Agent Scripting,ucp_genas,,UCP Genesys,Advantage Squad,TRUE
+1202,UCP Genesys Framework and Routing,ucp_genfr,,UCP Genesys,Advantage Squad,TRUE
+1203,UCP Genesys Info Mart and Reporting,ucp_genimr,,UCP Genesys,Advantage Squad,FALSE
+1204,UCP Genesys Multimedia,ucp_genmulti,,UCP Genesys,Advantage Squad,TRUE
+1205,UCP Genesys Workflow,ucp_genwf,,UCP Genesys,Advantage Squad,FALSE
+1206,RabbitMQ,mp_rabbitmq,1206,Message Platform,Winterfell Wolves,TRUE
+1208,Gateway,gateway,,Message Platform,Winterfell Wolves,TRUE
+1209,Notification Worker,notification,,Message Platform,Winterfell Wolves,TRUE
+1210,NACK,nackWorker,,Message Platform,Winterfell Wolves,TRUE
+1211,Classroom Database Mysql,classroom_database_mysql,,classroom,Winterfell Wolves,FALSE
+1212,New classroom DBs,discussions_mysql,,classroom,Winterfell Wolves,FALSE
+1213,Activities,activities_mysql,,classroom,Winterfell Wolves,FALSE
+1214,Access,access_mysql,,classroom,Winterfell Wolves,FALSE
+1215,UCP Genesys T-Server,ucp_gent,,UCP Genesys,Advantage Squad,FALSE
+1216,Tagging/Gradebook,tag_grade_mysql,,classroom,Winterfell Wolves,FALSE
+1217,UCP Genesys Administrator,ucp_gena,,UCP Genesys,Advantage Squad,FALSE
+1218,Remaining Schemas,classroom_mysql,,classroom,Winterfell Wolves,FALSE
+1222,PhoenixConnect Cache,phoenixconnect_cache,,Community,Premium,FALSE
+1232,Routing Configuration For MilddleWare,routing_config_middleware,,Middleware Services,Bank Roller$,TRUE
+1242,Mock SIMP,mocksimp,,Platform Services,Fundits,TRUE
+1252,fep-headerfooter,fep_headerfooter,,Templating,Premium,TRUE
+1263,Bitbucket/Stash,stash,,Bitbucket,Dynamites,TRUE
+1265,FinancialPlanManagement,financialplan_management,,Financial Plan Management,Bank Roller$,TRUE
+1266,FTPSyncService,ftpsyncservice,,Portal,Premium,FALSE
+1268,Windows Bootstrapper,windowsbootstrap,,RADT,Cloud Ninjas,FALSE
+1269,Automation Tools Website,automation_tools,,Automation Tools,Cloud Ninjas,FALSE
+1270,Reenquiry (liar),reenquiry_rs,,Lead Management Service,Advantage Squad,TRUE
+1271,Heliopolis Elasticsearch,heliopolis_elasticsearch,,Application Database,Cloud Ninjas,TRUE
+1274,eCampus Program2,ecampusprogram2,,Program,Premium,FALSE
+1275,SRM Provisioning,srmprovisioning,,Salesforce,Dare Devils,TRUE
+1276,Crucible/Fisheye,crucible,,Crucible,Cloud Ninjas,FALSE
+1278,New Classroom - Allegrograph,classroom_allegrograph,,classroom,Winterfell Wolves,FALSE
+1279,Routing config enable asset service,routing_config_eas,,Content Pipeline,Premium,FALSE
+1280,FacultyInterestForm,faaccount_facultyinterest,,FAAccount,Premium,FALSE
+1282,user-tasks-widget,user_tasks,,Templating,Premium,TRUE
+1312,Routing Configuration For Application Center,routing_config_appc,,Application Center,Phoenix Rising,FALSE
+1313,Production Windows Bamboo Agents in ACP,win_bamboo_agents_acp,,Bamboo,Dynamites,FALSE
+1316,Horizontal DB - ACTSTR,db_horizontal_actstr,,Horizontal Database,Phoenix Rising,FALSE
+1319,Horizontal DB,db_horizontal,,Horizontal Database,Phoenix Rising,FALSE
+1320,Horizontal DB - Quartz,db_horizontal_quartz,,Horizontal Database,Phoenix Rising,FALSE
+1321,Brandorama - db_oracle,brandorama_db_oracle,,HelioBundle,Cloud Ninjas,FALSE
+1322,Berkshelf API,berkshelf_api,,Chef,Future Bytes,FALSE
+1323,OSB Events,osb_events,,Middleware Oracle Integration Suite,Bank Roller$,TRUE
+1324,OSB Services,osb_services,,Middleware Oracle Integration Suite,Bank Roller$,TRUE
+1326,UCP Service,ucp_service,,UCP Genesys,Advantage Squad,TRUE
+1327,SOA Cocoa AppCenter,soa_cocoa_appcenter,,Middleware Oracle Integration Suite,Bank Roller$,TRUE
+1328,Data Generator Tool,data_generator,,classroom,Winterfell Wolves,FALSE
+1329,New Classroom - Disc_Access,disc_access,,classroom,Winterfell Wolves,TRUE
+1330,New Classroom - Disc_ActivityStream,disc_activitystream,,classroom,Winterfell Wolves,TRUE
+1331,New Classroom - Disc_Tagging,disc_tagging,,classroom,Winterfell Wolves,TRUE
+1335,New Classroom - disc_alt_events,disc_alt_events,,classroom,Winterfell Wolves,FALSE
+1336,New Classroom - disc_alt_service,disc_alt_service,,classroom,Winterfell Wolves,FALSE
+1337,fep-transcripts-templates,fep_transcripts_templates,,Templating,Premium,TRUE
+1338,New Classroom - disc_alt_spellcheck,disc_alt_spellcheck,,classroom,Winterfell Wolves,FALSE
+1339,New Classroom - disc_alt_provision,disc_alt_provision,,classroom,Winterfell Wolves,FALSE
+1341,user-notifications-widget,user_notifications,,Templating,Premium,TRUE
+1344,Subversion (Code),subversion_code,,Subversion,Dynamites,TRUE
+1345,BambooDB,bamboodb,,Bamboo,Dynamites,TRUE
+1346,BambooUI,bambooui,,Bamboo,Dynamites,TRUE
+1347,fep_tools4j,fep_tools4j,,Templating,Premium,TRUE
+1350,Transcript Simp MemCache,trmc,,Transcript Order Negotiator,Premium,FALSE
+1351,Transcript SIMP,tr_rs,,Equity Award Admin,Premium,TRUE
+1353,Deployment repo,deploymentrepo,,Automation Tools,Cloud Ninjas,FALSE
+1354,Subversion (Config2),subversionconfig2,,Subversion,Dynamites,FALSE
+1355,Crowd,crowd,,Crowd,Dynamites,TRUE
+1357,New Classroom - Classroom LAD,classroom_lad,,classroom,Winterfell Wolves,TRUE
+1358,New Classroom - LAD Service,lad_service,,classroom,Winterfell Wolves,TRUE
+1360,JIRA QC for Vocado,jira_vocado,,Jira QC - Financial Aid,Dare Devils,FALSE
+1362,Artifactory DB,artifactory_db,,Artifactory,Cloud Ninjas,FALSE
+1364,TRON,tron,,Transcript Order Negotiator,Premium,TRUE
+1365,Test Wizard,testwizard,,Heliopolis Test Environment,Cloud Ninjas,FALSE
+1369,Profile Memcache,profile_memcache,,Profile Services,Avatars,FALSE
+1370,Portal Enhancement Project (PEP) Memcached,pepm,,Portal Enhancement Project (PEP),Premium,FALSE
+1371,Services COE Memcached,coe_memcached,,Platform Academic Services,Winterfell Wolves,FALSE
+1372,Middleware Database,database_middleware,,Middleware Oracle Integration Suite,Bank Roller$,FALSE
+1374,P-Wave Database,pwave_db,,Learning Analytics (P-Wave),Data Knights,FALSE
+1380,MongoDB Management Service,mongomms,,MongoDB Management Services,Avatars,TRUE
+1383,fep-portal-templates,fep_portal_templates,,Templating,Premium,TRUE
+1384,analytics-templates,fep_analytics_templates,,Templating,Premium,TRUE
+1386,Progress Report,pwave_viz,,Learning Analytics (P-Wave),Data Knights,TRUE
+1387,program-templates,program_templates,,Templating,Premium,FALSE
+1388,common-elements-templates,common_elements_templates,,Templating,Premium,TRUE
+1389,Automation Testing,automation_testing,,Automation Tools,Cloud Ninjas,TRUE
+1391,PDF Renderer,pdf_renderer,,Content Pipeline,Premium,FALSE
+1393,Hyperion Planning,hyperion_planning,,Hyperion,Capital Gain$,FALSE
+1394,Hyperion Financial Management,hyperion_financial_mgmt,,Hyperion,Capital Gain$,FALSE
+1395,Hyperion Strategic Finance,hyperion_strategic_finance,,Hyperion,Capital Gain$,FALSE
+1396,UCP Genesys LRM,ucp_genlrm,,UCP Genesys,Advantage Squad,FALSE
+1397,AcademicPlan-templates,AcademicPlan_templates,,Templating,Premium,TRUE
+1398,Progress Report Cache,progress_report_cache,,Learning Analytics (P-Wave),Data Knights,FALSE
+1399,ncl-resources-templates,ncl_resources_templates,,Templating,Premium,TRUE
+1400,Weblogic-Fusion (Forms & reports),wls_fr,,OSIRIS - Online Student Information Records Inquiry System,Phoenix Wizards,TRUE
+1401,P-Wave Reporting,pwave_reporting,,Learning Analytics (P-Wave),Data Knights,FALSE
+1404,POC ST MongoDB,poc_mongo,,DPS Database,Avatars,FALSE
+1406,UCP Genesys Pulse,ucp_pulse,,UCP Genesys,Advantage Squad,FALSE
+1407,Heliopolis Test module (for QA),testmodule,,Heliopolis Test Environment,Cloud Ninjas,TRUE
+1408,Vitrium Protected PDF,vitppdf,,Content Pipeline,Premium,FALSE
+1409,fep-thirdparty,fep_thirdparty_templates,,Templating,Premium,TRUE
+1410,Lead Management Service,leadmanagementsvc,,Lead Management Service,Advantage Squad,TRUE
+1411,FinancialPlanManagement Memcache,memcache_fpm,,Financial Plan Management,Bank Roller$,TRUE
+1415,eXp/Documentum - Database,exp_db,,eXp/Documentum,404's,FALSE
+1416,Application Center Memcache,mem_applicationcenter,,Application Center,Phoenix Rising,TRUE
+1417,New Classroom - Misc Static,classroom_misc,,classroom,Winterfell Wolves,FALSE
+1418,EquityAwardYearlyDataExport,EquityAwardYearlyDataExport,,Equity Award Admin,Premium,FALSE
+1419,fep-core,fep_core,,Templating,Premium,TRUE
+1421,dnu_Middleware Soapui,dnu_middleware_soapui,,Middleware Oracle Integration Suite,Bank Roller$,FALSE
+1424,Radt bundles,radtbundles,,Automation Tools,Cloud Ninjas,FALSE
+1425,Yum repo,yum,,Automation Tools,Cloud Ninjas,FALSE
+1426,AcademicSupport,academic_support,,Templating,Premium,FALSE
+1427,Fieldglass,fg,,Fieldglass,High Roller$,FALSE
+1428,MyPay,mypay,,MyPay,High Roller$,FALSE
+1430,Successfactors,sf,,SuccessFactors,High Roller$,FALSE
+1431,Gilmore,gilmore,,Gilmore,High Roller$,FALSE
+1435,psauto,psauto,,Business Process Execution Language (BPEL),Bank Roller$,FALSE
+1437,UCP Agent Scripting,ucp_newas,,UCP Genesys,Advantage Squad,TRUE
+1438,UOPX Research Hub,uopxresearch,,UOPX Research Hub,Premium,TRUE
+1439,SVN Self Serve DB,svn_selfserve_mongodb,,SVN Self Service,Cloud Ninjas,FALSE
+1440,eXp/Documentum - Document Administrator,da,,eXp/Documentum,404's,TRUE
+1441,UOPX Research Hub Database,uopxresearchdb,,UOPX Research Hub,Premium,FALSE
+1442,eXp/Documentum - Web Services - WorkflowRules,WorkflowRules,,eXp/Documentum,404's,TRUE
+1443,eXp/Documentum - Web Services - PermDataService,PermDataService,,eXp/Documentum,404's,TRUE
+1444,Academic Rest Simp MemCache,armc,,Platform Academic Services,Winterfell Wolves,FALSE
+1445,eXp/Documentum - Web Services - MatriculationService,MatriculationService,,eXp/Documentum,404's,TRUE
+1450,Heliopolis UI,heliopolis_ui,apdb,Application Database,Cloud Ninjas,TRUE
+1456,Degree Works,degree_works,,Degree Audit,Philomaths,FALSE
+1461,MessageCenterRestService,messagecenterrestservice,,Message Center,Premium,FALSE
+1463,AMT heath check and dashboard,amthealth,,Accreditation Management Tool,Winterfell Wolves,TRUE
+1464,eXp/Documentum - eXp/DFS,emc_dfs,,eXp/Documentum,404's,TRUE
+1465,DestinyOne,destinyone,,UoPhx Shopping Cart (DestinyOne),Phoenix Wizards,FALSE
+1467,eXp/Documentum - DCTM-REST,dctm_rest,,eXp/Documentum,404's,TRUE
+1469,eXp/Documentum - Document Composer,doc_composer,,eXp/Documentum,404's,FALSE
+1471,LIS SIMP,lis_simp,,Blackboard Integration,Winterfell Wolves,TRUE
+1472,eXp/Documentum - eXp Tester,documentum_exptester,,eXp/Documentum,404's,FALSE
+1473,Caliper SIMP,caliper_simp,,Blackboard Integration,Winterfell Wolves,TRUE
+1474,API Gateway,api_gateway,1474,API Gateway,Bank Roller$,TRUE
+1476,Heliopolis Management,heliopolis_management,,Automation Tools,Cloud Ninjas,FALSE
+1477,Hadoop SIMP,hadoop_simp,,Hadoop SIMP,Data Divers,TRUE
+1478,Osiris Simp,osirissimp,,Shared Academic Services,Phoenix Wizards,TRUE
+1479,Do Not Call plugin,donotcall,,AdminConsole,Winterfell Wolves,TRUE
+1480,eXp/Documentum - Web Services - FileUploadTracking,FileUploadTracking,,eXp/Documentum,404's,TRUE
+1481,Stash_DB,stash_db,,Bitbucket,Dynamites,TRUE
+1482,eXp/Documentum - Web Services - Acknowledgements,Acknowledgements,,eXp/Documentum,404's,TRUE
+1487,DM Zookeeper,dmzookeper,,DM Zookeeper,SMEEs,TRUE
+1490,DM West website,dmwest,,DM West website,SMEEs,TRUE
+1495,DM Validation module,dmvalidation,,DM Validation module,SMEEs,TRUE
+1497,DM Survey module,dmsurvey,,DM Survey module,SMEEs,TRUE
+1500,DM Solr Cloud,dmsolrcloud,,DM Solr,SMEEs,TRUE
+1501,DM Solr,dmsolr,,DM Solr,SMEEs,FALSE
+1503,DM Session,dmsession,,DM Session,SMEEs,TRUE
+1519,DM RAC database,dmracdb,,DM RAC database,SMEEs,TRUE
+1527,DM Profile,dmprofile,,DM Profile,SMEEs,TRUE
+1529,DM PLCT UI,dmplctui,,DM PLCT,SMEEs,TRUE
+1530,DM PLCT App,dmplctapp,,DM PLCT,SMEEs,TRUE
+1532,DM phoenix.edu Web front-end,dmphxweb,,phoenix.edu website,SMEEs,FALSE
+1533,DM phoenix.edu services (backend),dmphxedu,,phoenix.edu website,SMEEs,TRUE
+1540,DM Onet,dmonet,,DM Onet,SMEEs,TRUE
+1548,DM LS Solr Console,dmlssolrconsole,,DM LS Solr,SMEEs,FALSE
+1549,DM LS Solr,dmlssolr,,DM LS Solr,SMEEs,FALSE
+1553,DM LDAP,dmldap,,DM LDAP,Skynet,FALSE
+1554,DM LaborMarket,dmlabormarket,,DM LaborMarket,SMEEs,TRUE
+1573,DM Event Management,dmeventmgmt,,DM Event Management,SMEEs,TRUE
+1583,DM Cassandra,dmcassandra,,DM Cassandra,SMEEs,TRUE
+1589,DM Audit,dmaudit,,DM Audit,SMEEs,TRUE
+1590,DM AuthZ,dmauthz,,DM Auth,SMEEs,TRUE
+1591,DM AuthN,dmauthn,,DM Auth,SMEEs,TRUE
+1606,Alumni website,dmalumni,,Alumni website,4-Mation,FALSE
+1637,Financials Webapps,financial_webapp,,Financial Services Platform,Capital Gain$,FALSE
+1638,Financial Services,financial_services,,Financial Services Platform,Capital Gain$,FALSE
+1639,Pay247 CPPCommon,Pay247_CPPCommon,,Financial Services Platform,Capital Gain$,TRUE
+1640,CyberSourceSOPSA,cybs_sop_sa,,Financial Services Platform,Capital Gain$,TRUE
+1641,CyberSourceSOPSAReceipt,cybsr_sa,,Financial Services Platform,Capital Gain$,TRUE
+1642,CybsSimApiClient,cybssimapiclient,,Financial Services Platform,Capital Gain$,TRUE
+1643,CybsQueryApiClient,cybsqueryapiclient,,Financial Services Platform,Capital Gain$,TRUE
+1644,Middleware RabbitMQ,ld_rabbitmq,1644,Middleware RabbitMQ Messaging,Bank Roller$,TRUE
+1645,TransactionDetails,TransactionDetails,,Financial Services Platform,Capital Gain$,TRUE
+1646,CardManagement,CardManagement,,Financial Services Platform,Capital Gain$,TRUE
+1647,Pay247 FinCommon,pay247_fincommon,,Financial Services Platform,Capital Gain$,TRUE
+1649,Vocado,vocado,,Vocado Financial Aid,High Roller$,FALSE
+1650,Routing Rules Script for HAProxy,routingrules,,RADT,Cloud Ninjas,TRUE
+1651,paymentplan,paymentplan,,Financial Services Platform,Capital Gain$,TRUE
+1652,employersanddiscounts,employersanddiscounts,,Financial Services Platform,Capital Gain$,TRUE
+1653,employernameandtype,employernameandtype,,Financial Services Platform,Capital Gain$,TRUE
+1654,AllegroGraph-LP-Func,allegrographlpfunc,,classroom,Winterfell Wolves,FALSE
+1655,pocdjkearn,pocdjkearn,,Templating,Premium,TRUE
+1656,DNC Manager,dncmanager,,AdminConsole,Winterfell Wolves,TRUE
+1657,pocfstock,pocfstock,,Templating,Premium,TRUE
+1658,fepblackboard,fepblackboard,,Templating,Premium,TRUE
+1659,Heliopolis Dashboard DB,heliopolis_dash_db,,Heliopolis Dashboard,Cloud Ninjas,FALSE
+1660,pocpschneid,pocpschneid,,Templating,Premium,TRUE
+1661,SSP Financial Aid Custom Apps,sspfaca,,Financial Aid Custom Apps,High Roller$,FALSE
+1662,temyphoenix,temyphoenix,,Templating,Premium,TRUE
+1663,Platform database,db_profile,,Profile - global,Avatars,FALSE
+1664,Middleware RabbitMQ Error Manager,mw_rabbitmq_error_manager,1664,Middleware RabbitMQ Messaging,Bank Roller$,TRUE
+1666,ETL Informatica,etl_informatica,,Informatica,Data Divers,FALSE
+1667,ETL Goldengate,etl_goldengate,,GoldenGate,Data Divers,FALSE
+1668,DB CONODS,db_conods,,Consolidated Operational Data Store (CONODS),Data Divers,TRUE
+1670,Academic Affairs Product Development (AAPD),appdbimport1,,Academic Affairs Product Development (AAPD),EdTech,FALSE
+1671,Academic Ops Mgmt System (AOMS),appdbimport2,,Academic Ops Mgmt System (AOMS),Philomaths,FALSE
+1675,Bad Debt ,appdbimport6,,Bad Debt ,DSS - BI,FALSE
+1685,Faculty Performance Indicator,appdbimport17,,Faculty Performance Indicator,Winterfell Wolves,FALSE
+1687,AEC Workflow Tool,aecwf,,AEC Workflow Tool,Skynet,FALSE
+1690,Impact 360 (VERINT),appdbimport22,,VERINT (Impact 360),Dynamites,FALSE
+1694,Microsoft Office 365 - Hybrid Coexistence Environment,appdbimport26,,Microsoft Office 365,morphEUS,FALSE
+1701,Phoenix Mobile (Android),appdbimport33,,Phoenix Mobile (Android),Winterfell Wolves,FALSE
+1702,Phoenix Mobile (iOS),appdbimport34,,Phoenix Mobile (iOS),Winterfell Wolves,FALSE
+1703,Phoenix Tablet (iOS),appdbimport35,,Phoenix Tablet (iOS),Winterfell Wolves,FALSE
+1709,SOAPUI (QA),appdbimport44,,SOAPUI Testing Tool,Bank Roller$,FALSE
+1715,UOPX Classroom Services,appdbimport50,,classroom,Winterfell Wolves,FALSE
+1716,UOPX Curriculum Builder,appdbimport51,,classroom,Winterfell Wolves,FALSE
+1719,WebDeliveryChannel,appdbimport54,,WebDeliveryChannel,Premium,TRUE
+1725,Center for Math Excellence (CME),appdbimport62,,Center for Mathematics Excellence (CME),Premium,FALSE
+1727,Faculty Content Area Request,appdbimport65,,Faculty Content Area Request,Philomaths,FALSE
+1728,Faculty Pay History,appdbimport66,,Faculty Pay History,Philomaths,FALSE
+1729,ACL,appdbimport67,,Financial Aid Custom Apps,High Roller$,FALSE
+1731,FourWinds,appdbimport69,,FourWinds,morphEUS,FALSE
+1735,Blackline,blackline,,Blackline,Capital Gain$,FALSE
+1737,Checkpoint Firewalls,appdbimport77,,Checkpoint Firewalls,Skynet,TRUE
+1746,Business Process Execution Language (BPEL),bpel,,Business Process Execution Language (BPEL),Bank Roller$,FALSE
+1749,DocImporters,appdbimport90,,DocImporters,404's,FALSE
+1750,Kofax,kofax,,Kofax,404's,TRUE
+1752,Service Desk,appdbimport93,,Service Desk,morphEUS,FALSE
+1753,Web CDS - Core,appdbimport94,,Web CDS - Core,Premium,FALSE
+1754,Web CDS - Media Library,appdbimport95,,Web CDS - Media Library,Premium,FALSE
+1755,Planview,appdbimport96,,Planview,The Fast and the Curious,FALSE
+1758,Espanol Library,appdbimport99,,OLS3,Winterfell Wolves,FALSE
+1759,LTTMU,appdbimport100,,LTTMU,Winterfell Wolves,FALSE
+1760,MetaData Services - NewClassroom,appdbimport101,,classroom,Winterfell Wolves,FALSE
+1762,Avaya Extention-to-Cellular (EC500),appdbimport103,,Avaya Extention-to-Cellular (EC500),CommCoders,FALSE
+1765,VPN Phone,appdbimport106,,VPN Phone,Advantage Squad,FALSE
+1768,Apollo Disability Services Management System (ADSMS),appdbimport112,,Apollo Disability Services Management System (ADSMS),Philomaths,FALSE
+1769,Automated GradeAttendance Change Process (AGCP),appdbimport113,,Automated GradeAttendance Change Process (AGCP),Premium,FALSE
+1770,Request (OLS3),appdbimport114,,OLS3,Winterfell Wolves,FALSE
+1771,Rubrics,appdbimport115,,classroom,Winterfell Wolves,FALSE
+1772,Discovery Software (Rubrix),appdbimport116,,classroom,Winterfell Wolves,FALSE
+1773,Transcript Fee,appdbimport118,,Transcript Fee,Premium,FALSE
+1777,Faculty Contracts,appdbimport122,,Faculty Contracts,Philomaths,FALSE
+1778,Faculty Course Availability,appdbimport123,,Faculty Course Availability,Philomaths,FALSE
+1779,Faculty Directed Study Attendance,appdbimport124,,Faculty Directed Study Attendance,Philomaths,FALSE
+1781,Faculty Stock Options,appdbimport126,,Faculty Stock Options,Philomaths,FALSE
+1782,Faculty View Approved Courses,appdbimport127,,Faculty View Approved Courses,Philomaths,FALSE
+1783,Learning Team Toolkit (LTT),appdbimport128,,Learning Team Toolkit (LTT),Winterfell Wolves,FALSE
+1784,Materials Handler,appdbimport129,,Materials Handler,Winterfell Wolves,FALSE
+1786,Library Admin,appdbimport131,,Library Admin,Premium,FALSE
+1793,Avaya One-X Softphone,appdbimport138,,Avaya One-X Softphone,CommCoders,FALSE
+1796,AVsT CallXpress with Unified Messaging,appdbimport141,,AVsT CallXpress with Unified Messaging,CommCoders,FALSE
+1798,Zone,appdbimport143,,Zone,404's,TRUE
+1800,Citrix Web Portal / Storefront,portal_storefront,,Virtual Client Computing (VCC),morphEUS,FALSE
+1801,LogMeIn GoTo Assist,appdbimport146,,LogMeIn GoToAssist,morphEUS,FALSE
+1806,AppSense Environment Manager,appsense_em,,Virtual Client Computing (VCC),morphEUS,FALSE
+1808,Infoblox/DNS,infoblox,,Infoblox/DNS,Future Bytes,FALSE
+1809,AiPhone-EasyLobby,appdbimport154,,AiPhone-EasyLobby,Skynet,FALSE
+1813,Microsoft Exchange 2007,appdbimport158,,Microsoft Exchange,morphEUS,FALSE
+1814,Venafi,venafi,,Venafi,Skynet,TRUE
+1817,Consolidated Operational Data Store (CONODS),conods,,Consolidated Operational Data Store (CONODS),Data Divers,FALSE
+1819,Cybersource,cybersource,,Cybersource,Capital Gain$,FALSE
+1820,Data Products Platform,dpp,,Data Products Platform,Data Divers,FALSE
+1822,Embarcadero,embarcadero,,Embarcadero,Data Divers,FALSE
+1823,Enrollment Forecast Model (EFM),efm,,Enrollment Forecast Model (EFM),Data Divers,TRUE
+1831,MarkView Imaging,markview,,MarkView Imaging,Capital Gain$,TRUE
+1833,Office of Research Support Website,ors,,Office of Research Support Website,Premium,FALSE
+1836,Oracle Supplier Network (OSN),osn,,Oracle Supplier Network (OSN),Capital Gain$,FALSE
+1841,Sabrix,sabrix,,Sabrix,Capital Gain$,FALSE
+1848,HP Printer Monitor,appdbimport197,,HP Print Monitor,morphEUS,FALSE
+1852,Oracle OEM (Management Services),appdbimport202,,Oracle OEM (Management Services),Data Knights,TRUE
+1856,Galaxy,appdbimport207,,Galaxy,Advantage Squad,FALSE
+1857,Student Data Warehouse (SDW),sdw,,Student Data Warehouse (SDW),Phoenix Wizards,FALSE
+1858,Online Student Information Records Inquiry System (OSIRIS),appdbimport209,,OSIRIS - Online Student Information Records Inquiry System,Phoenix Wizards,FALSE
+1859,Memcache,memcache,,Memcache,Premium,TRUE
+1860,Legal Database,appdbimport211,,Legal Database,Skynet,FALSE
+1861,All in One (LMS Admin),appdbimport212,,All in One (LMS Admin),Premium,FALSE
+1862,EZProxy,appdbimport213,,EZProxy,Winterfell Wolves,FALSE
+1863,Library,appdbimport214,,Library,Winterfell Wolves,FALSE
+1867,HP Network Node Manager (NNM),hp_nnm,,HP Network Node Manager (NNM),Dynamites,FALSE
+1868,HP OpenView Operations (OVO),hp_ovo,,HP OpenView Operations (OVO),Dynamites,FALSE
+1869,NetMRI,netmri,,NetMRI,Future Bytes,FALSE
+1872,Microsoft System Center,appdbimport223,,Microsoft System Center,morphEUS,TRUE
+1873,Central Authentication Service 2 - External,cas2_mod,,Single Sign-On (SSO),Skynet,FALSE
+1879,WebFilings,webfilings,,WebFilings,Capital Gain$,FALSE
+1883,PKI Cert Enrollment Services,pki_cert_enrollment,,Certificate Services (PKI),Skynet,FALSE
+1895,Jamf Pro,appdbimport252,,Jamf Pro,morphEUS,FALSE
+1896,Microsoft SCVMM Supporting Databases,appdbimport253,,Microsoft System Center 2016,morphEUS,FALSE
+1897,JAWs Software (ADA testing tool),appdbimport254,,JAWs Software (ADA testing tool),The Fast and the Curious,FALSE
+1901,Agent Terminal Phone,appdbimport258,,Agent Terminal Phone,Advantage Squad,FALSE
+1907,Avaya Call Management System,avaya_cms,,Avaya Call Management System,CommCoders,FALSE
+1908,Avaya Communication Managers (PBX),appdbimport265,,Avaya Communication Managers (PBX),CommCoders,FALSE
+1910,Avaya Unified Messenger (One-X Communicator),appdbimport267,,Avaya Unified Messenger (One-X Communicator),CommCoders,FALSE
+1913,Syslog,syslog,,Syslog,Skynet,TRUE
+1918,EnCase,appdbimport275,,EnCase,Skynet,FALSE
+1920,McAfee,appdbimport277,,McAfee,Skynet,TRUE
+1921,Nessus,nessus,,Nessus,Hawkeyes,FALSE
+1930,User Registration Application,appdbimport231,,Templating,Premium,FALSE
+1931,Hyperion Workspace,hyperion_ws,,Hyperion,Capital Gain$,FALSE
+1932,IST (Drupal),ist_drupal,,IST (Drupal),Premium,TRUE
+1934,UCP Agent Scripting 2,ucp_as2,,UCP Genesys,Advantage Squad,TRUE
+1936,WIU Attendance Web,wiuattweb,,MyWIU,Horizon,FALSE
+1947,CISCO - Prime,ciscoprime,,CISCO - Prime,morphEUS,FALSE
+1952,Colleague - Global,colleague_global,,WIU Colleague,Horizon,FALSE
+1953,Courian,courian,,SecureAuth,Skynet,FALSE
+1958,ActiveMQ - Middleware,amq_middleware,1958,ActiveMQ,Bank Roller$,FALSE
+1959,Employee Management System (EMS) - Database,ems_database,,EMS - Employee Management System,Philomaths,FALSE
+1963,Oracle RAC Dataguard,oracle_rac_dataguard,,Oracle RAC Dataguard,Data Divers,FALSE
+1965,TechWeb - Global,tech_web_global,,TechWeb,Avatars,FALSE
+1967,WIU Databases,wiu_db,,MyWIU,Horizon,FALSE
+1968,E911,e911,,E911,CommCoders,FALSE
+1971,eCatalog,ecatalog,,eCatalog,Premium,FALSE
+1972,Microsoft Exchange 2003,exchange_2003,,Microsoft Exchange,morphEUS,FALSE
+1973,Microsoft Exchange Hybrid,exchange_hybrid,,Microsoft Exchange,morphEUS,FALSE
+1976,Hyperion FSED,hyperion_fsed,,Hyperion,Capital Gain$,FALSE
+1979,Intermapper,intermapper,,Intermapper,Future Bytes,TRUE
+1983,DM Marketing Web Analytics,dm_web_analytics,,DM Marketing Web Analytics,SMEEs,FALSE
+1990,PSOC,psoc_security,,PSOC Security Alerter,Skynet,TRUE
+1991,RADIUS - wireless auth,radius_wireless,,RADIUS - wireless auth,Skynet,FALSE
+1993,Search Cache (Redis),search_cache_redis,,Search Platform,SMEEs,FALSE
+1996,Service Depot - SRM Test,service_depot_srm_test,,Service Depot,Avatars,FALSE
+1999,SQL Server  - Generic,mssql_server_generic,,DPS Database,Avatars,TRUE
+2000,Terminal Services,terminal_services,,Terminal Services,Future Bytes,FALSE
+2004,Web Marketing,web_marketing,,Web Marketing,SMEEs,FALSE
+2006,Jitterbit,jitterbit,,MyWIU,Horizon,FALSE
+2007,WIU Generic Module placeholder,wiu_generic_module,,MyWIU,Horizon,FALSE
+2008,Assignment Managment,assignment_managment,,eCampus Classroom Services,Premium,FALSE
+2010,Campus Tracking,campus_tracking,,OSIRIS - Online Student Information Records Inquiry System,Phoenix Wizards,FALSE
+2011,RISC RN Traffic Analysis,risc_rn_ta,,RISC RN Traffic Analysis,Cloud Ninjas,FALSE
+2012,Lead Management Service 2,leadmanagementsvc2,,Lead Management Service,Advantage Squad,TRUE
+2014,asar,asar,,Financial Services Platform,Capital Gain$,TRUE
+2016,pay247_ecampusws,pay247_ecampusws,,Financial Services Platform,Capital Gain$,TRUE
+2025,eXp/Documentum - eXpDctmRest,eXpDctmRest,,eXp/Documentum,404's,TRUE
+2026,Knowledge Information Tool,kit,,KIT (Knowledge Information Tool),Avatars,FALSE
+2028,enrCenter,enrc,,Enrollment Center (enrCenter),X-Force,FALSE
+2030,CS SCCM,system_center_configuration_manager,,Microsoft System Center 2016,morphEUS,TRUE
+2031,CS SCOM,scom,,Microsoft System Center 2016,morphEUS,FALSE
+2036,Citrix XenApp,citrix_xenapp,,Virtual Client Computing (VCC),morphEUS,FALSE
+2037,Citrix XenDesktop,citrix_xendesktop,,Virtual Client Computing (VCC),morphEUS,FALSE
+2038,Citrix - Decommissioned,citrix_decomm,,Virtual Client Computing (VCC),morphEUS,FALSE
+2039,Citrix Licensing,citrix_licensing,,Virtual Client Computing (VCC),morphEUS,FALSE
+2040,Citrix - Supporting Services,citrix_services,,Virtual Client Computing (VCC),morphEUS,FALSE
+2044,SysTrack,lakeside_systrack,,Virtual Client Computing (VCC),morphEUS,FALSE
+2045,Inova Lightlink,inova,,Inova LightLink,Avatars,FALSE
+2046,Moxie,moxie,,Moxie/Talisma,Dare Devils,FALSE
+2050,VCC Microsoft Hyper-V,vcc_hyperv,,Virtual Client Computing (VCC),morphEUS,FALSE
+2054,UOPX AEM Author,uopx_aem_author,,My Phoenix,Firebird,TRUE
+2055,VCC Citrix DB,vcc_citrix_db,,Virtual Client Computing (VCC),morphEUS,FALSE
+2056,VCC HyperV Mgmt. (SCVMM),hyperv_mgmt_scvmm,,Virtual Client Computing (VCC),morphEUS,TRUE
+2057,CS VMM,cs_vmm,,Microsoft Virtual Machine Manager,morphEUS,FALSE
+2058,VCC VMWare Infrastructure,vcc_vmware_core,,Virtual Client Computing (VCC),morphEUS,FALSE
+2059,Vital Source,vital_source,,VitalSource,Winterfell Wolves,FALSE
+2060,New Classroom - Mock Service V1,mock_service_v1,,classroom,Winterfell Wolves,TRUE
+2062,New Classroom - Mock Service V2,mock_service_v2,,classroom,Winterfell Wolves,TRUE
+2063,Messaging Adapter,mesg_adapter,,Middleware RabbitMQ Messaging,Bank Roller$,TRUE
+2066,fin1098,fin1098,,Financial Services Platform,Capital Gain$,TRUE
+2067,Vertica,vertica,,Vertica,Data Divers,FALSE
+2070,Vertex,vertex,,Vertex,Capital Gain$,FALSE
+2072,CCS - CONTENT CONVERSION SYSTEM  MIGRATION,ccs,,classroom,Winterfell Wolves,FALSE
+2073,Employer Agreement Viewer (EAV),eav,,Employer Agreement Viewer (EAV),Dare Devils,FALSE
+2074,Shared Services - Corp Apps,ssca,,Middleware Services,Bank Roller$,FALSE
+2075,Oracle Platinum Services,oplatsvcs,,Oracle Financials,Capital Gain$,FALSE
+2078,DAPS SFTP,dsftp,,Informatica,Data Divers,TRUE
+2079,Financials SFTP,fsftp,,Oracle Financials,Capital Gain$,FALSE
+2080,IPD Oracle Financials Clone,ipddb,,Oracle Financials,Capital Gain$,FALSE
+2083,Microsoft Business Intelligence - Reporting,mbi,,Microsoft Business Intelligence - Reporting,DSS - BI,FALSE
+2084,Microsoft SQLServer Reporting Services,ssrs,,Microsoft SQLServer Reporting Services,DSS - BI,TRUE
+2086,ASA Reporting Services,asars,,ASA Reporting Services,DSS - BI,FALSE
+2088,Adobe Sign,adobesign,,Adobe Sign,404's,FALSE
+2090,Service Could Category Search Tool,sccs,,Service Cloud Category Search Tool,Avatars,FALSE
+2091,Shiftbid Tool,shiftbid,,Shiftbid Tool,Avatars,FALSE
+2092,UCP Genesys Reporting,ucpgr,,UCP Genesys,Advantage Squad,FALSE
+2093,Encryption Database,cppenc,,Pay Now,Capital Gain$,FALSE
+2099,Relativity Web,relativity_web,,Relativity,Skynet,FALSE
+2100,Relativity DB,relativity_db,,Relativity,Skynet,FALSE
+2102,Azure Proxy,azureproxy,azpx,RADT,Cloud Ninjas,TRUE
+2103,Leave Of Absence LOA,loa,2103,Leave Of Absence LOA,High Roller$,FALSE
+2104,JOSSA,jossa,,JOSSA,404's,FALSE
+2106,PTE Tracker,ptetracker,,PTE Tracker,404's,FALSE
+2107,Apollo CopyKat,copykat,,Apollo CopyKat,404's,FALSE
+2108,ROCS,rocs,,Results Oriented Coaching System (ROCS),Dare Devils,TRUE
+2109,Navex Global,navex,,Navex Global,"Ethics, Compliance, and Data Privacy (ECDP)",FALSE
+2110,RMS Inhouse,rms,,Records Management System (RMS Inhouse,Skynet,FALSE
+2111,AEPA,aepa,,AE Production Application (AEPA),404's,FALSE
+2112,QASA,qasa,,Quality Assurance Support (QASA),404's,FALSE
+2114,Symplicity,symplicity,,Symplicity,Data Divers,FALSE
+2115,Windows Jump Hosts,windows_jump_hosts,,Windows Infrastructure Management,Future Bytes,TRUE
+2116,Linux Jump Hosts,linux_jump_hosts,,Linux Infrastructure Management,Future Bytes,TRUE
+2117,PKI Root CA,pki_root_ca,,Certificate Services (PKI),Skynet,FALSE
+2118,PKI Issuing CA,pki_issuing_ca,,Certificate Services (PKI),Skynet,FALSE
+2120,PKI OSCP,pki_oscp,,Certificate Services (PKI),Skynet,FALSE
+2122,PKI Appliance,pki_appliance,,Certificate Services (PKI),Skynet,FALSE
+2123,blackboard,blackboard,,Blackboard Classroom,Winterfell Wolves,FALSE
+2125,Middleware Weblogic,mweblogic,,Middleware Oracle Integration Suite,Bank Roller$,TRUE
+2126,Platform Messaging MongoDB,platform_messaging_mongo,,Platform Messaging MongoDB,Bank Roller$,TRUE
+2127,Content Pipeline Mongo,content_pipeline_mongo,,Content Pipeline Mongo,Premium,TRUE
+2129,Dev Mongo,dev_mongo,,DPS Database,Avatars,TRUE
+2130,faw_credit_balance,faw_credit_balance,,Financial Services Platform,Capital Gain$,TRUE
+2133,Nagios_POC,nagios_poc,2133,Heliopolis Test Environment,Cloud Ninjas,TRUE
+2139,UOPX AEM Publisher,uopx_aem_publisher,,My Phoenix,Firebird,TRUE
+2140,UOPX AEM dispatcher,uopx_aem_dispatcher,,My Phoenix,Firebird,TRUE
+2142,WebJet Admin,asstmgmtmnlntry,,HP WebJet Admin,morphEUS,TRUE
+2143,rEsource Production Pool,resource_prod,,rEsource,The Fast and the Curious,
+2145,Corptrain Production Pool,corptrain_prod,,Corptrain,Premium,
+2147,F5 LTM,f5_ltm,,F5,Future Bytes,FALSE
+2148,GIR,gir,,Genesys GIR GIA,Super G.O.A.T.S.,
+2149,GIA,gia,,Genesys GIR GIA,Super G.O.A.T.S.,TRUE
+2150,McAfee ESM,mcafeeesm,,Microsoft Sentinel,Skynet,
+2152,SAS Viya,viya,,SAS Analytics,DSS - BI,
+2153,Middleware Monitoring Portal - MMP,mw_mmp,,Middleware Oracle Integration Suite,Bank Roller$,TRUE
+2154,API Gateway - Cassandra,api_gateway_cassandra,,API Gateway,Bank Roller$,
+2155,Microsoft Exchange 2013,exchange_2013,,Microsoft Exchange,morphEUS,
+2158,UCP Genesys Integration Server,ucp_gis,,UCP Genesys,Advantage Squad,
+2159,Alteryx,alteryx,,Alteryx,High Roller$,TRUE
+2160,Avature,avature,,Avature,High Roller$,
+2164,UCP Genesys DB,ucp_gendb,,UCP Genesys,Advantage Squad,TRUE
+2165,C-Cure Administration 800/8000,ccureadministration,,C-Cure Administration 800/8000,Skynet,
+2166,C3Fusion,c3fusion,,C3 Fusion,Skynet,
+2167,congent,congent,,Congent RUU-201,Skynet,
+2168,Radio Repeater,radiorepeater,,Radio Repeater Software,Skynet,
+2169,SentryVMS,sentryvms,,Sentry VMS,Skynet,
+2170,Velocity,velocity,,Velocity,Skynet,
+2171,avigilon,avigilon,,Avigilon Control Center 5,Skynet,
+2174,Micro Focus Structured Data Manager,mf_sdm,,Micro Focus Structured Data Manager,Capital Gain$,
+2175,Total Contract Management,tcm,,Total Contract Management,Capital Gain$,
+2176,Kubernetes Master Node,kub_mstr,,Kubernetes,Cloud Ninjas,
+2177,Kubernetes Worker Node,kub_cluster_node,,Kubernetes,Cloud Ninjas,TRUE
+2178,Careers Website,careers,,Careers Website,High Roller$,
+2182,InfoSec POC,poc001,,pwaxspoc001.apollogrp.edu,Skynet,TRUE
+2185,UCP_GAAP,ucp_gaap,,UCP Genesys,Advantage Squad,
+2187,apply,apply,,apply,Phoenix Rising,TRUE
+2188,Service Management Reporting Data Stores,smreportingds,,Service Management Reporting,Team Eagle,
+2189,Service Management Reporting Web Reports,smreportingwr,,Service Management Reporting,Team Eagle,
+2190,UCP_GVP,ucp_gvp,,UCP Genesys,Advantage Squad,
+2191,promocodews,promocodews,,Financial Services Platform,Capital Gain$,TRUE
+2192,Crowd DB,crowd_db,,Crowd,Dynamites,TRUE
+2193,SSO database,sso_db,,Single Sign-On (SSO),Skynet,FALSE
+2195,UCP GVP,ucp_gvp2,,UCP Genesys,Advantage Squad,
+2196,LDAA memcached,ldaa_memcached,,LDAA Calc,Winterfell Wolves,TRUE
+2197,Vertical Service Domains,vst,,Vertical Service Domains,Winterfell Wolves,
+2198,ActiveMQ - Database,ActiveMQDB,,Middleware Services,Bank Roller$,FALSE
+2199,Software Support Web Tools,sswt,,Software Support Web Tools,Phoenix Wizards,
+2202,HVR Listener,hvrlistener,,HVR,Data Divers,
+2203,HVR Scheduler,hvrscheduler,,HVR,Data Divers,TRUE
+2205,SQL Server Management Studio,ssms_cms,,SQL Server Database Management,Dynamites,
+2206,Biscom,biscom,,Biscom,morphEUS,
+2207,Skyhigh,skyhigh,,Skyhigh,Skynet,
+2209,Financial Services Reporting and Analytics,fsra,,Financial Services Reporting and Analytics,Operational Reporting,
+2210,pay247_webdwws,pay247_webdwws,,Financial Services Platform,Capital Gain$,TRUE
+2211,Serengeti Legal Tracker,serengetilegaltracker,,Serengeti Legal Tracker,Skynet,
+2212,BCD Travel / NC4,bcdtravel,,BCD Travel / NC4,High Roller$,
+2214,IMS Incident Report,imsincidentreport,,IMS - incdent reports,Skynet,
+2216,Spirion Network DLP,spirion,,Spirion Network DLP,Skynet,
+2217,asana,asana,,Asana,Winterfell Wolves,
+2218,ServiceNow,servicenow,,ServiceNow,morphEUS,TRUE
+2221,unknown QA tools,unknown_qa,,Automation Tools,Cloud Ninjas,
+2223,Kafka,cp_enterprise_kafka,,Kafka,Scaena Cumulus,TRUE
+2224,CP3Proxy,cp3proxy,,RADT,Cloud Ninjas,TRUE
+2226,Rancher,rancher,,Rancher,Cloud Ninjas,TRUE
+2228,Ed Exchange,edex,,Ed Exchange,Philomaths,
+2229,fin_va_osiris,fin_va_osiris,,Financial Services Platform,Capital Gain$,TRUE
+2230,Profile DB,profile_db,,Profile - global,Avatars,FALSE
+2231,fin_tl11a,fin_tl11a,,Financial Services Platform,Capital Gain$,TRUE
+2233,Terraform,terraform,,Terraform OSS,Cloud Ninjas,
+2234,fin_eb_voucher,fin_eb_voucher,,Financial Services Platform,Capital Gain$,TRUE
+2235,uopx.io website,uopxio_website,,uopx.io,Dynamites,
+2236,Ed Exchange Database,edex_db,,Ed Exchange,Philomaths,TRUE
+2237,Equifax I-9,i9,,Equifax I-9,High Roller$,FALSE
+2239,ACL SaaS,aclsaas,,ACL SaaS,Capital Gain$,FALSE
+2240,Prudential,prudential,,Prudential,High Roller$,FALSE
+2241,osiris_va,osiris_va,,Financial Services Platform,Capital Gain$,TRUE
+2243,WIU_App_Decom,wiu_server_decomm,,MyWIU,Horizon,
+2244,WIU_Admin_Decom,wiu_admin_decommission,,MyWIU,Horizon,
+2246,DB Monitoring,ph,,Oracle OEM (Management Services),Data Knights,
+2247,Learning Center Service,learningcenterservice,,SAT - Student Application Tracker,Avatars,TRUE
+2248,Istio,istio,,Istio,Cloud Ninjas,
+2249,Student Services Business Analysis,ssba,,UoP Operational Analytics ,Operational Reporting,
+2250,MWMongoService,mwmongoservice,,SAT - Student Application Tracker,Avatars,TRUE
+2251,UOPX AEM Applications,uopx_aem_apps,,My Phoenix,Firebird,TRUE
+2268,CP Kafka Zookeeper,cp_zookeeper,,Kafka,Scaena Cumulus,
+2269,CP Kafka Schema Registry,cp_schema_registry,,Kafka,Scaena Cumulus,
+2270,CP Kafka Rest,cp_kafka_rest,,Kafka,Scaena Cumulus,
+2271,CP Kafka Connect,cp_kafka_connect,,Kafka Connect,Data Divers,TRUE
+2272,CP Kafka KSQL Server,cp_ksql_server,,Kafka,Scaena Cumulus,
+2273,CP Kafka Enterprise Control Center,cp_enterprise_control_center,,Kafka,Scaena Cumulus,
+2274,financialplancalculator,financialplancalculator,,Financial Plan Legacy,Fundits,TRUE
+2275,Persons microservice api,persons_api,,Persons Microservice,Avatars,TRUE
+2276,Persons microservice subscriber,persons_subscriber,,Persons Microservice,Avatars,TRUE
+2277,become,become_react_app,,Become,Phoenix Rising,
+2278,SonarLint,sonarlint,,Sonarqube,Skynet,
+2279,sonarqube db server,sonarqubedb,,Sonarqube,Skynet,TRUE
+2280,Sonarqube app server,sonarqubeapp,,Sonarqube,Skynet,TRUE
+2281,Applications Microservice API,applications_api,,Applications Microservice,Phoenix Rising,TRUE
+2282,Applications Microservice Helm Chart,applications_helm,,Applications Microservice,Phoenix Rising,TRUE
+2283,Applications Microservice Models,applications_modules,,Applications Microservice,Phoenix Rising,TRUE
+2284,Applications Microservice Subscriber,applications_subscriber,,Applications Microservice,Phoenix Rising,TRUE
+2285,Catalogs Microservice API,catalogs_api,,Catalogs Microservice,Phoenix Wizards,TRUE
+2286,Catalogs Microservice Helm Chart,catalogs_helm,,Catalogs Microservice,Phoenix Wizards,TRUE
+2287,Catalogs Microservice Subscribers,catalogs_subscribers,,Catalogs Microservice,Phoenix Wizards,TRUE
+2288,Communications API (Communications Microservice),communications_api,,Communications Microservice,Advantage Squad,TRUE
+2289,Communications Helm Chart (Communications Microservice),communications_helm,,Communications Microservice,Advantage Squad,TRUE
+2290,Communications Subscriber (Communications Microservice),communications_subscriber,,Communications Microservice,Advantage Squad,TRUE
+2291,Contacts API,contacts_api,,Contacts Microservice,Advantage Squad,
+2292,Contacts Helm Chart,contacts_helm,,Contacts Microservice,Advantage Squad,TRUE
+2293,Contacts Models,contacts_models,,Contacts Microservice,Advantage Squad,TRUE
+2294,Contacts Subscribers,contacts_subscribers,,Contacts Microservice,Advantage Squad,TRUE
+2295,Courses API,courses_api,,Courses Microservice,Optimus Prime,TRUE
+2296,Courses Helm Chart,courses_helm,,Courses Microservice,Optimus Prime,TRUE
+2297,Courses Subscriber,courses_subscriber,,Courses Microservice,Optimus Prime,TRUE
+2298,IAM API,iam_api,,IAM Microservice,Skynet,TRUE
+2299,IAM Helm Chart,iam_helm,,IAM Microservice,Skynet,TRUE
+2300,IAM Models,iam_models,,IAM Microservice,Skynet,TRUE
+2301,IAM Subscribers,iam_subscriber,,IAM Microservice,Skynet,TRUE
+2302,Organizations API,organizations_api,,Organizations Microservice,Philomaths,TRUE
+2303,Organizations Helm Chart,organizations_helm,,Organizations Microservice,Philomaths,TRUE
+2304,Organizations Models,organizations_models,,Organizations Microservice,Philomaths,TRUE
+2305,Organizations Subscribers,organizations_subscribers,,Organizations Microservice,Philomaths,TRUE
+2306,Persons Models,persons_models,,Persons Microservice,Avatars,TRUE
+2307,Persons IMS Update Connector,ims_update_connector,,Persons Microservice,Avatars,TRUE
+2308,Programs API,programs_api,,Programs Microservice,Phoenix Wizards,TRUE
+2309,Programs Helm Chart,programs_helm,,Programs Microservice,Phoenix Wizards,TRUE
+2310,Programs Models,programs_models,,Programs Microservice,Phoenix Wizards,TRUE
+2311,Programs Subscriber,programs_subscriber,,Programs Microservice,Phoenix Wizards,TRUE
+2312,Sagas API,sagas_api,,Sagas Microservice,Scaena Cumulus,TRUE
+2313,Sagas Helm Chart,sagas_helm,,Sagas Microservice,Scaena Cumulus,TRUE
+2314,Sagas Conductor,sagas_conductor,,Sagas Microservice,Scaena Cumulus,TRUE
+2315,Sagas Functional Tests,sagas_functional_tests,,Sagas Microservice,Scaena Cumulus,TRUE
+2316,Sagas Models,sagas_models,,Sagas Microservice,Scaena Cumulus,TRUE
+2317,Sagas Subscriber,sagas_subscriber,,Sagas Microservice,Scaena Cumulus,TRUE
+2318,Chart Museum,chart_museum,,Chart Museum,Cloud Ninjas,TRUE
+2320,jaspersoft,jaspersoft,,Vocado Financial Aid,High Roller$,TRUE
+2321,kafka_mirrormaker,kafka_mirror,,Kafka,Scaena Cumulus,TRUE
+2322,Carbon Black,carbon_black,,Carbon Black,Skynet,TRUE
+2323,fin_placws,fin_placws,,Financial Services Platform,Capital Gain$,TRUE
+2324,IMS Aggregator,ims_aggregator,,Persons Microservice,Avatars,TRUE
+2325,Wallets API,wallets_api,,Wallets Microservice,Fundits,
+2326,Wallets Subscriber,wallets_subscriber,,Wallets Microservice,Fundits,TRUE
+2327,Wallets Helm Chart,wallets_helm,,Wallets Microservice,Fundits,TRUE
+2328,Wallets Models,wallets_models,,Wallets Microservice,Fundits,TRUE
+2330,Applications Aggregator,applications_aggregator,,Applications Microservice,Phoenix Rising,TRUE
+2332,Application Connector,applications_connector,,Applications Microservice,Phoenix Rising,TRUE
+2333,fin_is3service,fin_is3service,,Financial Services Platform,Capital Gain$,TRUE
+2337,ServiceNow MID,snc_mid,,ServiceNow,morphEUS,TRUE
+2339,IMS Connector,ims_connect_app,,Persons Microservice,Avatars,TRUE
+2340,PossibleNow,possiblenow,,PossibleNow,Avatars,
+2343,AzureSEIM,ms_siem,,Microsoft Sentinel,Skynet,
+2346,applications-connector-sync,applicationsconnectorsync,,Applications Microservice,Phoenix Rising,TRUE
+2348,salesforcekafkaproducer,salesforcekafkaproducer,,dl.salesforcekafkaproducer,Data Divers,
+2349,amskafkaproducer,amskafkaproducer,,dl.amskafkaproducer,Data Divers,
+2350,fin_rapidx_login,fin_rapidx_login,,Financial Services Platform,Capital Gain$,TRUE
+2351,Harness UI,harness,,Harness,Cloud Ninjas,
+2352,Infratest (infrastructure test module),infratest,,Automation Tools,Cloud Ninjas,
+2353,RPA - Automation Anywhere - Control Room Cluster,rpa_aa_control_room,,RPA - Automation Anywhere Enterprise,OddBots,
+2354,RPA - Automation Anywhere - Bot Runner,rpa_aa_bot_runner,,RPA - Automation Anywhere Enterprise,OddBots,
+2355,Prometheus RP2,prometheus_rp2,,Prometheus Non-Cloud,Advantage Squad,
+2357,Grafana RP2,grafana_rp2,,Grafana RP2,Advantage Squad,
+2358,dl.sf-integrations,dl_sf_integrations,,dl.sf-integrations,Data Divers,
+2359,Account Manager,wiu_am,,MyWIU,Horizon,
+2360,WIU Alumni Website,wiu_aw,,MyWIU,Horizon,FALSE
+2361,Citation Generator,wiu_cg,,MyWIU,Horizon,FALSE
+2362,Collapsable Panel,wiu_cp,,MyWIU,Horizon,FALSE
+2363,eBooks,wiu_ebooks,,MyWIU,Horizon,FALSE
+2364,Faculty Virtual Office,wiu_fvo,,MyWIU,Horizon,FALSE
+2365,Form Processor,wiu_fp,,MyWIU,Horizon,FALSE
+2366,iGrad,wiu_igrad,,MyWIU,Horizon,FALSE
+2367,Interactive Online,wiu_io,,MyWIU,Horizon,FALSE
+2368,internships.com,wiu_internships,,MyWIU,Horizon,FALSE
+2369,Me Tab Dashboard,wiu_mtd,,MyWIU,Horizon,FALSE
+2370,Webadvisor,wiu_wa,,MyWIU,Horizon,FALSE
+2371,Media Content Download,wiu_mcd,,MyWIU,Horizon,FALSE
+2372,Media Player/Dispatcher,wiu_pd,,MyWIU,Horizon,FALSE
+2373,My Finances,wiu_mf,,MyWIU,Horizon,FALSE
+2374,MyWest Chat,wiu_chat,,MyWIU,Horizon,FALSE
+2375,Payment Options,wiu_po,,MyWIU,Horizon,FALSE
+2376,SmtpService,wiu_smtp,,MyWIU,Horizon,FALSE
+2377,SNAP SSO,wiu_sso,,MyWIU,Horizon,FALSE
+2378,SNAP Tuition Calculator,wiu_tc,,MyWIU,Horizon,FALSE
+2379,Tutor.com,wiu_tutor,,MyWIU,Horizon,FALSE
+2380,Tech Check,wiu_tech,,MyWIU,Horizon,FALSE
+2381,University Library Redirect,wiu_lr,,MyWIU,Horizon,FALSE
+2382,West Attendance - Student View,wiu_asv,,MyWIU,Horizon,FALSE
+2383,Adobe Connect Web Service,wiu_acws,,MyWIU,Horizon,FALSE
+2384,Datatel Transaction Driver,wiu_dtd,,MyWIU,Horizon,FALSE
+2385,Documentum Web Service,wiu_dws,,MyWIU,Horizon,FALSE
+2386,Export To Exp,wiu_ete,,MyWIU,Horizon,FALSE
+2387,Frontier Reporting ETL,wiu_fre,,MyWIU,Horizon,FALSE
+2388,LoudCloud Attendance Service,wiu_las,,MyWIU,Horizon,FALSE
+2389,Oracle Demographic Interface,wiu_odi,,MyWIU,Horizon,FALSE
+2390,Oracle Invoicing Interface,wiu_oii,,MyWIU,Horizon,FALSE
+2391,PII Change Notifier,wiu_piicn,,MyWIU,Horizon,FALSE
+2393,West Attendance - Ground,wiu_ag,,MyWIU,Horizon,FALSE
+2394,West Attendance Data Feed,wiu_adf,,MyWIU,Horizon,FALSE
+2395,West Attendance Staff View,wiu_attdsv,,MyWIU,Horizon,FALSE
+2396,West Attendance Web Service,wiu_attdws,,MyWIU,Horizon,FALSE
+2397,Informer,wiu_informer,,MyWIU,Horizon,FALSE
+2398,WIU Class Build,wiu_cb,,WIU Colleague,Horizon,FALSE
+2399,WIU Student AD Account Builder,wiu_saab,,MyWIU,Horizon,FALSE
+2401,Colleague Web API,wiu_cwa,,WIU Colleague,Horizon,FALSE
+2402,Colleague Web Service,wiu_cws,,WIU Colleague,Horizon,FALSE
+2403,Colleague Web UI,wiu_cwu,,WIU Colleague,Horizon,FALSE
+2404,West.edu,west_edu,,MyWIU,Horizon,FALSE
+2405,dl.leadflow.ims,dl_leadflow_ims,,dl.leadflow.ims,Data Divers,TRUE
+2406,Documents Microservice API,documents_api,,Documents Microservice,404's,
+2407,Documents Microservice Helm Chart,documents_helm,,Documents Microservice,404's,
+2408,Documents Models,documents_models,,Documents Microservice,404's,
+2409,Wallets Profile Connector,wallets_profile_connector,,Wallets Microservice,Fundits,TRUE
+2410,Wallets Persons Aggregator,wallets_persons_aggregator,,Wallets Microservice,Fundits,TRUE
+2411,Learning API,learning_api,,Learning Microservice,Winterfell Wolves,
+2412,Amazon Web Services (AWS),amazon_web_services,,Amazon Web Services (AWS),Cloud Ninjas,
+2413,Grafana,grafana,,Automation Tools,Cloud Ninjas,
+2414,Prometheus,prometheus,,Automation Tools,Cloud Ninjas,
+2416,Azure AD Sync,azure_ad,,Azure AD,Skynet,
+2418,Epoch Mapping,epochmap,,Automation Tools,Cloud Ninjas,TRUE
+2420,MS Profile Updater,ms_profile_updater,,profile-updater,Avatars,TRUE
+2421,Docsign API,docsign_api,,Docsign Microservice,404's,FALSE
+2422,End User Monitoring,eum,,End User Monitoring,Dynamites,TRUE
+2423,fin_is3sso,fin_is3sso,,Financial Services Platform,Capital Gain$,TRUE
+2424,DM Zookeeper Alumni,dmzkalumni,,DM Zookeeper,SMEEs,
+2425,DM Solr Cloud Alumni,dmslrcldalum,,DM Solr,SMEEs,
+2426,infratest-api,infratest_api,,infratest-microservice,Cloud Ninjas,
+2427,infratest-helm,infratest_helm,,infratest-microservice,Cloud Ninjas,
+2428,infratest-models,infratest_models,,infratest-microservice,Cloud Ninjas,
+2429,infratest-subscriber,infratest_subscriber,,infratest-microservice,Cloud Ninjas,
+2430,infratest-redis,infratest_redis,,infratest-microservice,Cloud Ninjas,
+2432,Identity Management,idm,,SecureAuth,Skynet,FALSE
+2435,fin_is3academic,fin_is3academic,,Financial Services Platform,Capital Gain$,TRUE
+2436,AWS Storage Gateway,aws_storage_gateway,,AWS Integration Tools,Cloud Ninjas,TRUE
+2437,PETS Calendar Memcache,petscal_memcache,,PETS Calendar,Premium,
+2438,GGS-Grade Governance System,ggs_grade_governance_system,,Governance,Philomaths,
+2440,Glint,glint,,Glint,High Roller$,FALSE
+2441,Project Place,project_place,,Project Place,The Fast and the Curious,FALSE
+2442,Benefit Central,benefit_central,,Benefit Central,High Roller$,FALSE
+2443,Tangoe,tangoe,,LinkSource,morphEUS,FALSE
+2444,Redshift,redshift,,Amazon Redshift,Data Divers,TRUE
+2446,Salesforce - Career Services,salesforce_career_services,,Salesforce,Dare Devils,
+2447,Salesforce - Case,salesforce_case,,Salesforce,Dare Devils,
+2448,Salesforce - E2B,salesforce_e2b,,Salesforce,Dare Devils,
+2449,Salesforce - Data.com,salesforce_data_com,,Salesforce,Dare Devils,
+2450,Salesforce - Regular Instance,salesforce_regular_instance,,Salesforce,Dare Devils,
+2451,Salesforce - Speech Miner,salesforce_speech_miner,,Salesforce,Dare Devils,
+2452,Salesforce - SRM,salesforce_srm,,Salesforce,Dare Devils,
+2453,Salesforce - SRM Business,salesforce_srm_business,,Salesforce,Dare Devils,
+2454,Salesforce - SRM Student,salesforce_srm_student,,Salesforce,Dare Devils,
+2457,Center for Writing Excellence (CWE),cwe,,Center for Writing Excellence (CWE),Premium,FALSE
+2458,AudioCodes,audio_codes,,AudioCodes,CommCoders,TRUE
+2459,LinkedIn,linkedin,,LinkedIn,High Roller$,FALSE
+2460,319Insight,319insight,,319Insight,"Ethics, Compliance, and Data Privacy (ECDP)",FALSE
+2464,Access Management Service,ams,,Access Management Service,Skynet,FALSE
+2467,Volunteer Match,volmatch,,Volunteer Match,High Roller$,FALSE
+2468,Adobe Analytics,aa,,Adobe Analytics,Optimus Prime,FALSE
+2470,Adobe Digital Asset Manager,adam,,Adobe Digital Asset Manager,4-Mation,FALSE
+2471,Adobe Target,adobetarget,,Adobe Target,Optimus Prime,FALSE
+2473,APH/OA Summary database,aphoasummary,,APH/OA Summary database,Super G.O.A.T.S.,FALSE
+2474,Assessment Management Tool (AMT),amt,,Assessment Management Tool (AMT),Data Knights,FALSE
+2475,Attendance Line Web Service,alws,,Attendance Line Web Service,Avatars,FALSE
+2476,bosch,bosch,,bosch,Skynet,FALSE
+2481,Deep Crawl,deepcrawl,,Deep Crawl,The Fast and the Curious,FALSE
+2482,Email Optimization and Intelligence,emailoptintell,,Email Optimization and Intelligence,The Fast and the Curious,FALSE
+2483,Email Optimization Certification License,emailoptcertlic,,Email Optimization Certification License,The Fast and the Curious,FALSE
+2484,EMSI,emsi,,EMSI,SMEEs,FALSE
+2486,Everbridge,everbridge,,Everbridge,Skynet,FALSE
+2487,Evidon Site and Ad Notice Services for phx.edu,esans,,Evidon Site and Ad Notice Services for phx.edu,The Fast and the Curious,FALSE
+2488,fluentd,fluentd,,EFK,Dynamites,TRUE
+2489,Fortinet,fortinet,,Fortinet,Skynet,TRUE
+2490,Full Story,fullstory,,Full Story,Optimus Prime,FALSE
+2492,Litmus Software Annual Basic Plan,lsabp,,Litmus Software Annual Basic Plan,The Fast and the Curious,FALSE
+2493,Liveclicker,liveclicker,,Liveclicker,The Fast and the Curious,FALSE
+2494,Moz,moz,,Moz,The Fast and the Curious,FALSE
+2497,Pixel Net,pixelnet,,Pixel Net,Skynet,FALSE
+2498,Proofpoint,proofpoint,,Proofpoint,Skynet,FALSE
+2499,Resolution Apps,resapps,,Resolution Apps,The Fast and the Curious,FALSE
+2500,ScreamingFrog,screamfrog,,ScreamingFrog,The Fast and the Curious,FALSE
+2501,"SearchForce, Inc.",searchforce,,"SearchForce, Inc.",The Fast and the Curious,FALSE
+2502,Shot Spotter,shotspotter,,Shot Spotter,Skynet,FALSE
+2503,SKILLSOFT,skillsoft,,SKILLSOFT,High Roller$,FALSE
+2504,Social Listening Insights,sli,,Social Listening Insights,The Fast and the Curious,FALSE
+2506,UserZoom.com,userzoom,,UserZoom.com,The Fast and the Curious,FALSE
+2507,Yext,yext,,Yext,The Fast and the Curious,FALSE
+2509,Security Information and Management Systems,sims,,Security Information and Management Systems,Skynet,TRUE
+2510,Data Lake bucket module clickstream,dl_s3_clickstream,,Data Lake S3 Resource,Data Knights,
+2513,Data Lake bucket module applyweb,dl_s3_applyweb,,Data Lake S3 Resource,Data Knights,
+2514,Data Lake bucket module ucp,dl_s3_ucp,,Data Lake S3 Resource,Data Knights,
+2515,Data Lake bucket module ims,dl_s3_ims,,Data Lake S3 Resource,Data Knights,
+2516,Data Lake bucket module osiris,dl_s3_osiris,,Data Lake S3 Resource,Data Knights,
+2517,Data Lake bucket module profile,dl_s3_profile,,Data Lake S3 Resource,Data Knights,
+2518,Data Lake bucket module admin,dl_s3_admin,,Data Lake S3 Resource,Data Knights,
+2519,Data Lake bucket module cods,dl_s3_cods,,Data Lake S3 Resource,Data Knights,
+2520,Data Lake bucket module Application Center,dl_s3_ac,,Data Lake S3 Resource,Data Knights,
+2521,Data Lake bucket module ams,dl_s3_ams,,Data Lake S3 Resource,Data Knights,
+2522,Data Lake bucket module salesforce,dl_s3_salesforce,,Data Lake S3 Resource,Data Knights,
+2523,Data Lake IAM module svc dl cp3kafka,dl_iam_svc_dl_cp3kafka,,Data Lake IAM Resource,Data Divers,
+2524,Data Lake IAM module svc dl hvr,dl_iam_svc_dl_hvr,,Data Lake IAM Resource,Data Divers,
+2525,Data Lake Lambda adobe module,dl_lambda_clickstream,,Data Lake Lambda Resource,Data Divers,
+2526,Data Lake Glue clickstream module,dl_glue_clickstream,,Data Lake Glue Resource,Data Divers,
+2527,Data Lake IAM module clickstream,dl_iam_clickstream,,Data Lake IAM Resource,Data Divers,
+2528,Data Lake IAM module svc dl,dl_iam_svc_dl,,Data Lake IAM Resource,Data Divers,
+2530,Data Lake bucket module efm,dl_s3_efm,,Data Lake S3 Resource,Data Knights,
+2531,Data Lake IAM Module ama,dl_iam_ama,,Data Lake IAM Resource,Data Divers,
+2532,Data Lake IAM Module redshift,dl_iam_uopxdw,,Data Lake IAM Resource,Data Divers,
+2533,Data Lake IAM Module UCP,dl_iam_ucp,,Data Lake IAM Resource,Data Divers,
+2534,Data Lake Lambda UCP module,dl_lambda_ucp,,Data Lake Lambda Resource,Data Divers,
+2535,EECProxy,eecproxy,,RADT,Cloud Ninjas,TRUE
+2536,Data Lake IAM Module glue,dl_iam_glue,,Data Lake IAM Resource,Data Divers,
+2537,Data Lake Lambda salesforce module,dl_lambda_salesforce,,Data Lake Lambda Resource,Data Divers,
+2538,Data lake Glue Salesforce Module,dl_glue_salesforce,,Data Lake Glue Resource,Data Divers,
+2539,Data Lake DynamoDB Module blackboard,dl_dynamodb_blackboard,,Data Lake DynamoDB Resource,Data Knights,FALSE
+2540,Data Lake IAM Module blackboard,dl_iam_blackboard,,Data Lake IAM Resource,Data Divers,FALSE
+2541,Data Lake Kinesis Module blackboard,dl_kinesis_blackboard,,Data Lake Kinesis Resource,Data Knights,FALSE
+2542,LMS Utility Service,lms_utility_service,,Blackboard Integration,Winterfell Wolves,TRUE
+2543,ids-kafka,ids_kafka,,ids-kafka,Scaena Cumulus,
+2544,kirby-kafka,kirby_kafka,,kirby-kafka,Scaena Cumulus,
+2545,Data Lake IAM Module Saleforce,dl_iam_salesforce,,Data Lake IAM Resource,Data Divers,
+2546,Catalyst,catalyst,,Catalyst,Skynet,FALSE
+2551,Mirror Maker,mirror_maker,,Mirror Maker,Advantage Squad,TRUE
+2553,applications_aggregator_consumer,applications_aggregator_consumer,,Applications Microservice,Phoenix Rising,TRUE
+2554,Data Lake Lambda applyweb module,dl_lambda_applyweb,,Data Lake Lambda Resource,Data Divers,
+2555,Data Lake bucket module responsys,dl_s3_responsys,,Data Lake S3 Resource,Data Knights,
+2556,Data Lake Lambda responsys module,dl_lambda_responsys,,Data Lake Lambda Resource,Data Divers,
+2557,Data Lake Glue responsys module,dl_glue_responsys,,Data Lake Glue Resource,Data Divers,
+2558,ems_oem_dr_db,ems_oem_dr_db,,EMS - Employee Management System,Philomaths,
+2560,sdw_dr_db,sdw_dr_db,,Student Data Warehouse (SDW),Phoenix Wizards,
+2561,profile_ucp_dr_db,profile_ucp_dr_db,,Profile - global,Avatars,
+2562,osiris_dr_db,osiris_dr_db,,OSIRIS - Online Student Information Records Inquiry System,Phoenix Wizards,
+2563,Genesys - Speech Miner,genesys_speech_miner,,Genesys - Speech Miner,Super G.O.A.T.S.,FALSE
+2564,ElasticSearch,elasticsearch,,EFK,Dynamites,
+2568,kibana,kibana,,EFK,Dynamites,
+2569,Data Lake IAM Module Osiris,dl_iam_osiris,,Data Lake IAM Resource,Data Divers,
+2570,Data Lake Lambda Osiris module,dl_lambda_osiris,,Data Lake Lambda Resource,Data Divers,
+2571,Data Lake Glue UCP Module,dl_glue_ucp,,Data Lake Glue Resource,Data Divers,
+2575,Adobe Experience Manager,aem,,Adobe Experience Manager,4-Mation,FALSE
+2577,Genesys - Dialer,genesys_dialer,,Genesys - Dialer for Repayment,Super G.O.A.T.S.,FALSE
+2578,Genesys - Phone,genesys_phone,,Genesys - Phone,Super G.O.A.T.S.,FALSE
+2579,GGS,ggs_ggs,,GGS,Philomaths,FALSE
+2580,IPSOS,ipsos,,IPSOS,Data Divers,FALSE
+2582,NSLDS,nslds,,NSLDS,High Roller$,FALSE
+2583,OneLook,onelook,,OneLook,Super G.O.A.T.S.,FALSE
+2584,Oracle Responsis,oracle_responsis,,Oracle Responsis,The Fast and the Curious,FALSE
+2585,Orbit,orbit,,Orbit,Philomaths,FALSE
+2586,Osiris Attendance,osiris_attendance,,Osiris Attendance,Phoenix Wizards,FALSE
+2588,Qualtrix,qualtrix,,,,FALSE
+2589,TLOxp,tloxp,,TLOxp,High Roller$,FALSE
+2590,GoAnywhere,goanywhere,,GoAnywhere MFT,Dynamites,TRUE
+2594,financialplansimp,financialplansimp,,Financial Plan Legacy,Fundits,TRUE
+2595,New Relic - Sandbox,new_relic_sandbox,,New Relic,Dynamites,TRUE
+2597,Ansible for Linux OS Management,ansible_linuxos,,Linux Infrastructure Management,Future Bytes,TRUE
+2601,Production,aimprd,,AIM Scripts,Skynet,TRUE
+2602,UCP AWS Connect,ucpawsconnect,,UCP Genesys,Advantage Squad,
+2604,VDM Tool,vdmtool,,VDM Tool,High Roller$,
+2605,Pendo_connector,pendo_connector,,Pendo,X-Force,TRUE
+2607,AD LDS (LDAP),adlds,,Active Directory,Skynet,
+2608,AD Jump Hosts,adjump,,Active Directory,Skynet,FALSE
+2609,Data Archiva,dataarchiva,,Salesforce,Dare Devils,
+2611,Pulp Repository Management,pulp,,Linux Infrastructure Management,Future Bytes,FALSE
+2612,Airflow-Expedient,airf_xpdt,,Apache Airflow,Data Divers,TRUE
+2613,Airflow-Cloud,airf_cld,,Apache Airflow,Data Divers,TRUE
+2614,php MyADMin,phpmyadmin,,RADT,Cloud Ninjas,FALSE
+2615,Sagas S3 Conods,sagas_s3_conods,,sagas-s3-conods,Data Divers,TRUE
+2616,dr,dr,,,,FALSE
+2617,ApplyWebV3 - Database,applywebv3,,Application Center,Phoenix Rising,TRUE
+2618,ActiveMQ Database,activemq_db,,ActiveMQ,Bank Roller$,
+2619,Themes,themes_application,,Themes,Philomaths,FALSE
+2620,Physical Security Devices,psdevice,,Physical Security Devices,morphEUS,FALSE
+2621,outlook-proxy,outlook_proxy,,Outlook Proxy,Premium,
+2622,RPA - Automation Anywhere - iQbot,rpa_aa_iqbot,,RPA - Automation Anywhere Enterprise,OddBots,FALSE
+2623,Data Lake bucket module phonelogs,dl_s3_phonelogs,,Data Lake S3 Resource,Data Knights,
+2624,Data Lake bucket module rubrics,dl_s3_rubrics,,Data Lake S3 Resource,Data Knights,
+2627,Fischer Management,fischermgmt,,Fischer Identity,Hawkeyes,
+2628,fin_invoice_upload,fin_invoice_upload,,Financial Services Platform,Capital Gain$,TRUE
+2632,UOPX AEM MyPhoenix Dispatchers,uopx_aem_myphxdispatcher,,My Phoenix,Firebird,
+2634,SQL Server Database,dsssqlserver,,MS-SQL - Data Strategy & Solutions,DSS - BI,TRUE
+2636,SQL Server Reporting Services Server,dssreportserver,,MS-SQL - Data Strategy & Solutions,DSS - BI,TRUE
+2637,SQL Server Analysis Services,dssanalysisservices,,MS-SQL - Data Strategy & Solutions,DSS - BI,TRUE
+2638,Power BI Gateway,dsspbigateway,,Microsoft Business Intelligence - Reporting,DSS - BI,TRUE
+2639,Windows Jump Host,dssjumphost,,MS-SQL - Data Strategy & Solutions,DSS - BI,TRUE
+2640,Heavy Forwarder,heavyforwarder,,Splunk,Dynamites,TRUE
+2641,Data lake Glue phonelogs module,dl_glue_phonelogs,,Data Lake Glue Resource,Data Divers,
+2642,Data Lake Phonelogs IAM Module,dl_iam_phonelogs,,Data Lake IAM Resource,Data Divers,
+2643,Data Lake Lambda phonelogs module,dl_lambda_phonelogs,,Data Lake Lambda Resource,Data Divers,
+2644,Data Lake DynamoDB Module phonelogs,dl_dynamodb_phonelogs,,Data Lake DynamoDB Resource,Data Knights,
+2645,Stas Compliance Analytics,stascomplianceanalytics,,Stas Compliance Analytics,StAS Compliance - CAR,TRUE
+2646,Data Lake SFTP Adobe Module,dl_sftp_clickstream,,Data Lake SFTP Module,Data Divers,
+2650,Digital Marketing Service Proxy,dm_service_proxy,,phoenix.edu website,SMEEs,TRUE
+2651,Financial Aid Microservice,financialaid_api,,Financial Aid Microservice,Bank Roller$,FALSE
+2652,DSS - Decommission List,dssdecom,,MS-SQL - Data Strategy & Solutions,DSS - BI,TRUE
+2653,Data Lake bucket module pwave,dl_s3_pwave,,Data Lake S3 Resource,Data Knights,
+2654,Bitbucket Storage,bitbucket_nfs,,Bitbucket,Dynamites,
+2656,Tenable,tenable,,Tenable,Hawkeyes,
+2657,Data Lake bucket module hdfs,dl_s3_hdfs,,Data Lake S3 Resource,Data Knights,
+2658,fin_rapidx,fin_rapidx,,Financial Services Platform,Capital Gain$,TRUE
+2659,Courses Models,courses_models,,Courses Microservice,Optimus Prime,TRUE
+2661,Data Lake EC2 Vocado Module,dl_ec2_vocado,,Data Lake EC2,Data Divers,
+2662,Spinnaker Database,spinnaker_db,,Spinnaker,Cloud Ninjas,
+2663,SAS BDN,sasbdn,,SAS BDN Web Application,Data Governance,TRUE
+2664,BAOR - Bad Debt SQL Servers,dssbd,,MS-SQL - BAOR,DSS - BI,TRUE
+2665,Weblogic NFS,weblogic_nfs,,Middleware Oracle Integration Suite,Bank Roller$,TRUE
+2666,Grafana AWS,grafana_aws,,Monitoring Tools,Cloud Ninjas,
+2667,RPA - Automation Anywhere - Bot Creator,rpa_aa_bot_creator,,RPA - Automation Anywhere Enterprise,OddBots,
+2668,Blackboard Aggregations API,blackboard_aggregations_api,,Blackboard Aggregations Microservice,Data Knights,FALSE
+2669,Production Tracking Application (PTA),pts,,Student Financial Services Operations Production Tracking Application (PTA),Miner League,
+2670,Incident Management System Integration Module,imsi,,Incident Alert Notification Platform,morphEUS,
+2671,Instant Messaging Client Module,imc,,Incident Alert Notification Platform,morphEUS,
+2672,Data Lake DynamoDB Module salesforce,dl_dynamodb_salesforce,,Data Lake DynamoDB Resource,Data Knights,
+2675,fider,fider_app,,Fider,Avatars,
+2676,Subversion NFS,subversion_nfs,,Subversion,Dynamites,TRUE
+2677,CyberArk Vault,cyberark_vault,,CyberArk,Skynet,TRUE
+2678,fin_verifyxs,fin_verifyxs,,Financial Services Platform,Capital Gain$,TRUE
+2679,Careers API,careers_api,,Careers Microservice,SMEEs,TRUE
+2680,Careers Models,careers_models,,Careers Microservice,SMEEs,TRUE
+2681,Careers Helm,careers_helm,,Careers Microservice,SMEEs,TRUE
+2682,AMA EFM Python,ama_efm_python,,AMA-EFM,Data Divers,TRUE
+2685,Preferences API,preferences_api,,Preference Microservice,Philomaths,TRUE
+2686,Preferences Subscriber,preferences_subscriber,,Preference Microservice,Philomaths,TRUE
+2687,Preferences Models,preferences_models,,Preference Microservice,Philomaths,TRUE
+2688,Preferences Helm,preferences_helm,,Preference Microservice,Philomaths,TRUE
+2689,Priviledged Access Manager,pam_api,,Automation Tools,Cloud Ninjas,
+2690,Careers Subscriber,careers_subscriber,,Careers Microservice,SMEEs,TRUE
+2691,IAM Support Tool,iam_support,,IAM Microservice,Skynet,TRUE
+2692,Advanced Group Policy Management,agpm,,Active Directory,Skynet,
+2693,acm,acm,,General Purpose EKS Cluster,Cloud Ninjas,
+2694,alb,alb,,General Purpose EKS Cluster,Cloud Ninjas,
+2698,cluster_autoscaler,cluster_autoscaler,,General Purpose EKS Cluster,Cloud Ninjas,
+2702,Agreements Microservice,agreements_microservice,,Agreements Microservice,404's,
+2703,Faculty Microservice,faculty_microservice,,Faculty Microservice,Philomaths,
+2704,OS Templates,vm_templates,,VM Templates,Future Bytes,
+2705,Students Saga LOA,students_saga_loa,,Students Microservice,Philomaths,
+2706,platform-infrastructure,platform_infrastructure,,platform-infrastructure,Cloud Ninjas,
+2709,PowerBI Gateway,sbsbi,,Microsoft Power BI - SBS,SBS Reporting and Analytics,
+2711,RO-OAR - SSRS,abc123,,RO-OAR - SSRS,RO-OAR - BI,
+2713,Salesforce Kafka Connector,salesforce_connect,,Lead Management Service,Advantage Squad,TRUE
+2714,Chatbot - Lex Bots,chatbot_lex,,Chatbot Virtual Assistant,PaigeMakers,FALSE
+2715,Marketing Sciences,mktsci,,Marketing Sciences,Marketing Sciences Data & Analytics,
+2716,IMT Apollo Press Institute,imtapollopress,,IMT Apollo Press Institute,Non Train Teams,
+2717,Newman,newman,,PAM Microservice,Cloud Ninjas,
+2722,pam_api,pam_microservice_api,,PAM Microservice,Cloud Ninjas,
+2723,RFI React App,rfi_react_app,,Edu RFI,4-Mation,TRUE
+2724,GLS,sdwangls,,SDWAN,morphEUS,
+2726,api-exporter,api_exporter,,Automation Tools,Cloud Ninjas,
+2727,RPA - Automation Anywhere - IQBot SQL Server,rpa_aa_iqbot_sqlserver,,RPA - Automation Anywhere Enterprise,OddBots,
+2728,JIra Server (AWS),jira_aws,,Jira,Dynamites,
+2729,Salesforce Event Gateway API,salesforce_event_gateway_api,,Salesforce Event Gateway,Advantage Squad,FALSE
+2730,sample_redis,sample_redis,,sample-microservice,Cloud Ninjas,
+2731,MongoDB Servers,mongodbsvr,,MongoDB Management Services,Avatars,
+2732,Data Lake Gateway Module,dl_api_gateway,,Data Lake API Resource,Data Knights,
+2734,Student API,student_api,,Student Microservice,Philomaths,
+2735,customkafkaconsumer,customkafkaconsumer,,dl.customkafkaconsumer,Data Divers,
+2736,Salesforce Event Gateway Helm Chart,salesforce_event_gateway_helm,,Salesforce Event Gateway,Advantage Squad,FALSE
+2737,Salesforce Event Gateway iWD Consumer,salesforce_event_gateway_iwd_consumer,,Salesforce Event Gateway,Advantage Squad,FALSE
+2738,Data Lake Genesys RDS Module,dl_rds_genesys,,Data Lake RDS Application,Data Divers,
+2739,platform-application-kafka-consumer,platform_application_kafka_consumer,,platform-application-kafka-consumer,Data Divers,
+2740,Survey Sagas Worker,survey_worker,,Survey Microservice,Advantage Squad,FALSE
+2741,EBS Garbage Collector,ebs_garbage,,Cloud Custodian,Cloud Ninjas,
+2742,Elasticache Compliance,elasticache_compliance,,Cloud Custodian,Cloud Ninjas,
+2743,Elasticsearch Compliance,es_compliance,,Cloud Custodian,Cloud Ninjas,
+2744,ECS Compliance,ecs_compliance,,Cloud Custodian,Cloud Ninjas,
+2745,Elastic Network Interface Garbage Collector,eni_garbage,,Cloud Custodian,Cloud Ninjas,
+2746,AMI Compliance,ami_compliance,,Cloud Custodian,Cloud Ninjas,
+2747,EFS Compliance,efs_compliance,,Cloud Custodian,Cloud Ninjas,
+2748,EC2 Compliance,ec2_compliance,,Cloud Custodian,Cloud Ninjas,
+2749,S3 Compliance,s3_compliance,,Cloud Custodian,Cloud Ninjas,
+2750,ASG Compliance,asg_compliance,,Cloud Custodian,Cloud Ninjas,
+2751,EKS Compliance,eks_compliance,,Cloud Custodian,Cloud Ninjas,
+2752,ELB Compliance,elb_compliance,,Cloud Custodian,Cloud Ninjas,
+2753,DynamoDB Compliance,dynamo_compliance,,Cloud Custodian,Cloud Ninjas,
+2754,Lambda Compliance,lambda_compliance,,Cloud Custodian,Cloud Ninjas,
+2755,EBS Compliance,ebs_compliance,,Cloud Custodian,Cloud Ninjas,
+2756,RDS Compliance,rds_compliance,,Cloud Custodian,Cloud Ninjas,
+2757,RDS Cluster Compliance,rds_cluster_compliance,,Cloud Custodian,Cloud Ninjas,
+2758,Billing Notifications,billing_notifications,,AWS Billing Alarms,Cloud Ninjas,
+2759,EEC Exporter,eec_exporter,,EEC Exporter,Cloud Ninjas,
+2760,Kube Conformance,kubeconformance,,Kubernetes Conformance Monkey,Cloud Ninjas,
+2762,Prometheus metrics,prometheus_metrics,,Rancher Exporter,Cloud Ninjas,
+2763,blackbox_exporter,blackbox_exporter,,Prometheus Operator,Cloud Ninjas,
+2764,alertmanager,alertmanager,,Prometheus Operator,Cloud Ninjas,
+2765,node_exporter,node_exporter,,Prometheus Operator,Cloud Ninjas,
+2766,kube_state_metrics,kube_state_metrics,,Prometheus Operator,Cloud Ninjas,
+2768,prometheus_operator,prometheus_operator,,Prometheus Operator,Cloud Ninjas,
+2769,thanos,thanos,,Prometheus Operator,Cloud Ninjas,
+2770,configmap_reload,configmap_reload,,Prometheus Operator,Cloud Ninjas,
+2771,prometheus_config_reloader,prometheus_config_reloader,,Prometheus Operator,Cloud Ninjas,
+2772,New Account Profile UI,new_account_profile_ui,,New Account Profile (NAP),Avatars,
+2773,New Account Profile Node Proxy,new_account_profile_proxy,,New Account Profile (NAP),Avatars,
+2774,dl-bb-caliper,dl_bb_caliper,,Data Lake Blackboard Caliper,Data Knights,
+2776,Leads Api,leads_api,,Leads Microservice,4-Mation,TRUE
+2777,Leads Helm,leads_helm,,Leads Microservice,4-Mation,TRUE
+2778,Leads Model,leads_model,,Leads Microservice,4-Mation,TRUE
+2779,Leads Saga,leads_saga,,Leads Microservice,4-Mation,TRUE
+2780,kafka-consumer-spring-boot,kafka_consumer_spring_boot,,kafka-consumer-spring-boot,Data Divers,
+2781,Financialaid Domain Microservice,financialaid_domain_microservice,,Agreements Microservice,404's,
+2782,Data Lake SNS Module UCP,dl_sns_ucp,,Data Lake SNS Application,Data Divers,
+2784,Data Lake SQS Module UCP,dl_sqs_ucp,,Data Lake SQS Application,Data Divers,
+2785,NAE Pull Request Gate,nae_pr_gate,,Become,Phoenix Rising,
+2786,Chatbot - GIA Callflow,chatbot_gia,,Chatbot Virtual Assistant,PaigeMakers,FALSE
+2787,Chatbot - Student Services Lambda,chatbot_ss_lambda,,Chatbot Virtual Assistant,PaigeMakers,FALSE
+2788,Chatbot - CloudFormation for Bots,chatbot_cfn_bots,,Chatbot Virtual Assistant,PaigeMakers,FALSE
+2789,Chatbot - Smoke Tests,chatbot_smoke_tests,,Chatbot Virtual Assistant,PaigeMakers,FALSE
+2790,Financial Aid Domain Microservice,financialaid_domain_api,,Financial Aid Microservice,Bank Roller$,
+2793,Notifications API,notifications_api,,Notifications Microservice,Firebird,
+2794,Notifications Helm Chart,notifications_helm,,Notifications Microservice,Firebird,
+2795,Kendra Search API,kendra_search_api,,Kendra Search API,Firebird,
+2796,Kendra Search Helm,kendra_search_helm,,Kendra Search API,Firebird,
+2797,KB Article React,kb_article_react,,KB Article,Dare Devils,
+2798,Survey Microservice Helm Chart,survey_helm,,Survey Microservice,Advantage Squad,FALSE
+2799,Data Lake AWS Database Migration Service Module,dl_dms,,Data Lake AWS Database Migration Service,Data Knights,
+2800,Data Lake Athena Module blackboard,dl_athena_blackboard,,Data Lake Athena Resource,Data Knights,FALSE
+2801,CreditBalances Oracle Connector,creditbalances_oracle_connector,,Wallets Microservice,Fundits,TRUE
+2802,Financial Aid Domain Subscriber,financialaid_domain_subscriber,,Financial Aid Microservice,Bank Roller$,
+2804,Search Microservice API,search_api,,Search Services,Firebird,
+2805,Search Microservice Helm Chart,search_microservice_helm,,Search Services,Firebird,
+2806,Data Lake Lambda App Progress module,dl_lambda_appprog,,Data Lake Lambda Resource,Data Divers,
+2807,Data Lake SQS Module AC,dl_sqs_ac,,Data Lake SQS Application,Data Divers,
+2808,Data Lake SNS Module AC,dl_sns_ac,,Data Lake SNS Application,Data Divers,
+2809,Terraform Enterprise,tfe,,Terraform Enterprise,Cloud Ninjas,
+2810,Terraform Enterprise database,tfe_data,,Terraform Enterprise,Cloud Ninjas,
+2811,Terraform Enterprise Backend Resources,tfe_backend,,Terraform Enterprise,Cloud Ninjas,
+2812,Terraform Enterprise Compute,tfe_compute,,Terraform Enterprise,Cloud Ninjas,
+2813,Data Lake DynamoDB Module osiris,dl_dynamodb_osiris,,Data Lake DynamoDB Resource,Data Knights,FALSE
+2814,NICE Recording Retrieval,nicerecordings,,NICE Recording Retrieval,Dynamites,
+2815,Data Lake Lambda Financial Domain Module,dl_lambda_finaid,,Data Lake Lambda Resource,Data Divers,TRUE
+2816,Transcripts API,transcripts_api,,Transcripts Microservice,Phoenix Wizards,TRUE
+2817,Transcripts Models,transcripts_models,,Transcripts Microservice,Phoenix Wizards,TRUE
+2818,Transcripts Helm Chart,transcripts_helm,,Transcripts Microservice,Phoenix Wizards,TRUE
+2819,Terraform Enterprise Service Accounts,tfe_service_accounts,,Terraform Enterprise,Cloud Ninjas,
+2820,Center for Teaching and Learning,ctl,,Center for Teaching and Learning,EdTech,
+2821,eXp/Documentum - SDU FTP,sdu_ftp,,eXp/Documentum,404's,FALSE
+2822,Active Directory Student Sync DocumentDB,ad_student_sync_docudb,,AD Student Sync,Skynet,
+2823,Salesforce Event Gateway Lead Score Consumer,salesforce_event_gateway_ls_consumer,,Salesforce Event Gateway,Advantage Squad,FALSE
+2824,Short Burst Learning,sbl,,Short Burst Learning,Alias,
+2825,Work Distribution Platform,wdp,,Work Distribution Platform,Super G.O.A.T.S.,TRUE
+2826,aws_sso,aws_sso,,AWS SSO,Skynet,
+2827,Nonprod Dev VPC,nonprod_dev_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2828,AD Student Sync App,ad_student_sync_app,,AD Student Sync,Skynet,TRUE
+2836,Master VPC,master_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2837,Security VPC,security_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2838,Nonprod ST VPC,nonprod_st_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2839,MGMT VPC,mgmt_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2840,Manual ST VPC,manual_st_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2841,Sandbox VPC,sandbox_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2842,Role Based Access Control,rbac,,Kubernetes,Cloud Ninjas,
+2843,Manual Prod VPC,manual_prod_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2844,AWS Direct Connect,aws_direct_connect,,AWS Cloud Networking,Cloud Ninjas,
+2846,Alation Data Catalog EC2,alation_data_catalog,,Alation Data Catalog,Data Governance,
+2848,private alb,mw_private_alb,,Middleware Re-platform Cluster Base,Technology Architecture,
+2849,Data Lake Sagemaker Pwave,dl_sagemaker_pwave,,Data Lake Sagemaker Module,Data Divers,
+2850,Responsys Events Consumer,responsys_events_consumer,,Responsys Events,Avatars,
+2851,Responsys Events Dispatcher,responsys_events_dispatcher,,Responsys Events,Avatars,
+2852,TFE Samples,tfe_samples,,Terraform Enterprise,Cloud Ninjas,
+2853,devfinder,devfinder,,Dev Finder,Future Bytes,
+2854,vipfinder,vipfinder,,VIP Finder,Future Bytes,
+2855,Salesforce Event Gateway Osiris Consumer,salesforce_event_gateway_osiris_consumer,,Salesforce Event Gateway,Advantage Squad,FALSE
+2856,mw-srm-apps,mw_srm_apps,,mw-srm-apps,X-Force,
+2857,Pricing API,pricing_api,,Pricing Microservice,SMEEs,
+2858,Pricing Models,pricing_models,,Pricing Microservice,SMEEs,
+2859,Pricing Helm,pricing_helm,,Pricing Microservice,SMEEs,
+2860,Pricing Subsciber,pricing_subsciber,,Pricing Microservice,SMEEs,
+2861,penguins,penguins,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2862,gophers,gophers,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2863,giraffes,giraffes,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2864,sloths,sloths,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2865,manatees,manatees,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2866,yaks,yaks,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2867,beavers,beavers,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2868,dingos,dingos,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2869,meerkats,meerkats,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2870,minks,minks,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2871,otters,otters,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2872,lynxes,lynxes,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2873,llamas,llamas,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2874,panthers,panthers,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2875,iguanas,iguanas,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2876,hedgehogs,hedgehogs,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2877,flamingos,flamingos,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2878,kangaroos,kangaroos,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2879,weasels,weasels,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2880,coyotes,coyotes,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2881,badgers,badgers,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2882,anteaters,anteaters,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2883,impallas,impallas,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2884,pumas,pumas,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2885,hartebeest,hartebeest,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2886,jackals,jackals,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2887,hyenas,hyenas,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2888,emus,emus,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2889,wolverines,wolverines,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2890,wombats,wombats,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2891,Vocado Events,vocadoevents,,Vocado Financial Aid,High Roller$,
+2892,CISCO ACS,ciscoacs,,CISCO - ACS,Future Bytes,
+2893,roadrunners,roadrunners,,Terraform Enterprise Bootcamp,Cloud Ninjas,
+2894,Create Kafka Certificate Secret,create_kafka_certificate_secret,,Self Service Automation,Cloud Ninjas,
+2896,aws_infosec,aws_infosec,,AWS Infosec,Skynet,
+2897,RSA NetWitness Infrastructure,rsa_siem_infrastructure,,RSA NetWitness,Skynet,
+2898,api gateway vpc endpoint,mw_api_gw_vpc_endpoint,,Middleware Re-platform Cluster Base,Technology Architecture,
+2899,domain name certificate,mw_public_acm_cert,,Middleware Re-platform Cluster Base,Technology Architecture,
+2900,internal alb certificate,mw_internal_acm_cert,,Middleware Re-platform Cluster Base,Technology Architecture,
+2901,api gateway custom domain name,mw_api_gateway_name,,Middleware Re-platform Cluster Base,Technology Architecture,
+2902,mw students service,mw_students_service,,MW Students,Phoenix Wizards,
+2903,mw students events,mw_students_events,,MW Students,Phoenix Wizards,
+2904,mw students terraform,mw_students_terraform,,MW Students,Phoenix Wizards,
+2905,mw fp plctprogramrequirements service,mw_fp_plctprogramrequirements_service,,MW Financialaid,Bank Roller$,
+2906,HEAT data,heat_data,,HEAT Data Retention,Data Knights,
+2907,RPA - Automation Anywhere 2019 - Bot runner,rpa_aa2019_bot_runner,,RPA - Automation Anywhere Enterprise,OddBots,
+2908,ecs cluster,mw_example_ecs_cluster,,Example ECS Infrastructure (Middleware Replatform),Technology Architecture,
+2909,example ecs service,mw_example_ecs_service,,Example ECS Infrastructure (Middleware Replatform),Technology Architecture,
+2910,internal lb target group for example service,mw_example_public_tg,,Example ECS Infrastructure (Middleware Replatform),Technology Architecture,
+2911,private lb target group for example service,mw_example_private_tg,,Example ECS Infrastructure (Middleware Replatform),Technology Architecture,
+2912,MW CDK Pipeline,mw_cdk_pipeline,,MW Financialaid,Bank Roller$,FALSE
+2913,mw financialaid ecs cluster,mw_financialaid_ecs_cluster,,MW Financialaid,Bank Roller$,
+2914,MW Organization Service,mw_organization_service,,MW Organization,Philomaths,
+2915,MW Faculty,mw_faculty,,MW Faculty,Philomaths,
+2916,mw fpoevent transformer,mw_fpoevent_transformer,,MW Financialaid,Bank Roller$,
+2917,Notes API,notes_api,,Notes Microservice,SMEEs,TRUE
+2918,Notes Subscriber,notes_subscriber,,Notes Microservice,SMEEs,TRUE
+2919,mw financialaid fpo service,mw_financialaid_fpo_service,,MW Financialaid,Bank Roller$,
+2920,mw financialaid fpo public tg,mw_financialaid_fpo_public_tg,,MW Financialaid,Bank Roller$,
+2921,mw financialaid fpo private tg,mw_financialaid_fpo_private_tg,,MW Financialaid,Bank Roller$,
+2922,MW Faculty Service,mw_faculty_service,,MW Faculty,Philomaths,
+2923,MW Organization,mw_organization,,MW Organization,Philomaths,
+2924,mw financialaid disbursement service,mw_financialaid_disbursement_service,,MW Financialaid,Bank Roller$,
+2925,mw financialaid studentdemoinfo service,mw_financialaid_studentdemoinfo_service,,MW Financialaid,Bank Roller$,
+2926,mw financialaid pellestimates service,mw_financialaid_pellestimates_service,,MW Financialaid,Bank Roller$,
+2927,mw financialaid plusapplicationinformation service,mw_financialaid_plusappinfo_service,,MW Financialaid,Bank Roller$,
+2928,mw financialaid efcestimate service,mw_financialaid_efcestimate_service,,MW Financialaid,Bank Roller$,
+2929,MW IVR Services,ivr_service,,Genesys GIR GIA,Super G.O.A.T.S.,
+2930,mw financialaid fpo event dispatcher,mw_financialaid_fpo_event_dispatcher,,mw_financialplanoutbound-dispatcher,Bank Roller$,
+2931,mw financialaid vocado proxy,mw_financialaid_vocado_proxy,,MW Financialaid,Bank Roller$,
+2932,mw financialaid vocadoevents publisher,mw_financialaid_vocadoevents_publisher,,mw_financialaid_vocadoevents_publisher,Bank Roller$,
+2933,iam,iam,,Kubernetes-gp-iam,Cloud Ninjas,
+2934,ecr vpc endpoint,mw_ecr_vpc_endpoint,,Middleware Re-platform Cluster Base,Technology Architecture,
+2935,MW Financialaid AWS Secrets,mw_financialaid_secrets,,MW Financialaid,Bank Roller$,
+2936,S3 VPC Endpoint,mw_s3_vpc_endpoint,,Middleware Re-platform Cluster Base,Technology Architecture,
+2937,mw financialaid ecr repo,mw_financialaid_ecr_repo,,MW Financialaid,Bank Roller$,
+2938,cloudwatch vpc endpoint,mw_cloudwatch_vpc_endpoint,,Middleware Re-platform Cluster Base,Technology Architecture,
+2939,Prod VPC,prod_vpc,,AWS Cloud Networking,Cloud Ninjas,
+2940,mw-srm-apps-public-tg,mw_srm_apps_public_tg,,mw-srm-apps,X-Force,
+2941,mw-srm-apps-private-tg,mw_srm_apps_private_tg,,mw-srm-apps,X-Force,
+2942,X-Ray Proxy ECS Cluster,xray_proxy_ecs_cluster,,X-Ray Proxy,Cloud Ninjas,
+2943,X-Ray Proxy ALB,xray_proxy_alb,,X-Ray Proxy,Cloud Ninjas,
+2944,X-Ray Proxy ECR Repo,xray_proxy_ecr,,X-Ray Proxy,Cloud Ninjas,
+2945,X-Ray Proxy Certs Secret,xray_proxy_secret,,X-Ray Proxy,Cloud Ninjas,
+2946,AWS Nuke ECS Cluster,aws_nuke_ecs_cluster,,AWS Nuke,Cloud Ninjas,FALSE
+2947,AWS Nuke ECR,aws_nuke_ecr,,AWS Nuke,Cloud Ninjas,
+2948,AWS Nuke Cloudwatch Events,aws_nuke_cloudwatch_events,,AWS Nuke,Cloud Ninjas,
+2949,AWS Nuke Secrets,aws_nuke_secret,,AWS Nuke,Cloud Ninjas,
+2950,mw data products events producer,mw_dataprod_events_producer,,MW Data Products Events,Phoenix Rising,
+2951,mw email events consumers,mw_email_events_consumer,,MW Data Products Events,Phoenix Rising,
+2952,Cisco VPN - Staff,ciscovpn,,Cisco VPN - Staff,Future Bytes,
+2953,public alb to private alb proxy,mw_public_alb_proxy,,Middleware Re-platform Cluster Base,Technology Architecture,
+2954,AWS Nuke TFE API Module,aws_nuke_tfe_api,,AWS Nuke,Cloud Ninjas,
+2955,AWS Nuke Step Function,aws_nuke_step_func,,AWS Nuke,Cloud Ninjas,
+2956,mw data products events app,mw_dataprod_events,,MW Data Products Events,Phoenix Rising,
+2957,mw-dataprod-events-private-tg,mw_dataprod_events_private_tg,,MW Data Products Events,Phoenix Rising,
+2958,mw-dataprod-events-public-tg,mw_dataprod_events_public_tg,,MW Data Products Events,Phoenix Rising,
+2959,CA S3 Bucket,mw_api_gateway_ca_s3,,Middleware Re-platform Cluster Base,Technology Architecture,
+2960,Management Servers,mgmtservers,,Certificate Services (PKI),Skynet,TRUE
+2961,API Gateway CA Secret,mw_api_gateway_ca_secret,,Middleware Re-platform Cluster Base,Technology Architecture,
+2962,MW Financial Aid FPM Transform 4,mw_finaid_fpm_transform_4,,MW Financialaid,Bank Roller$,
+2963,private NLB lambda,mw_private_nlb_lambda,,Middleware Re-platform Cluster Base,Technology Architecture,
+2964,private nlb,mw_private_nlb,,Middleware Re-platform Cluster Base,Technology Architecture,
+2965,mw_platform_cw_events,mw_platform_cw_events,,Middleware Re-platform Cluster Base,Technology Architecture,
+2966,mw_aws_fsp,fsp,,Financial Services Platform,Capital Gain$,TRUE
+2967,aws_nuke_codebuild,aws_nuke_codebuild,,AWS Nuke,Cloud Ninjas,
+2968,API Gateway Cognito,mw_api_gateway_cognito,,Middleware Re-platform Cluster Base,Technology Architecture,
+2970,Faculty NCE Event Consumer,mw_faculty_nce_event_consumer,,MW Faculty,Philomaths,
+2971,mw_api_gateway_vpc_link,mw_api_gateway_vpc_link,,Middleware Re-platform Cluster Base,Technology Architecture,FALSE
+2972,Lambda,lambda,,Self Service Automation,Cloud Ninjas,
+2973,Public ALB WAF,mw_internal_alb_waf,,Middleware Re-platform Cluster Base,Technology Architecture,
+2974,api gateway - public,api_public,,MW Financialaid,Bank Roller$,
+2975,Rabbit MQ Events Consumer,rabbitmq_events_consumer,,Kafka To Rabbit MQ Events,Fundits,
+2976,Rabbit MQ Events Dispatcher,rabbitmq_events_dispatcher,,Kafka To Rabbit MQ Events,Fundits,
+2977,AWS Nuke Credentials Secret,aws_nuke_credentials_secret,,AWS Nuke,Cloud Ninjas,
+2978,Middleware API Gateway ALB Token,mw_api_gateway_alb_token,,Middleware Re-platform Cluster Base,Technology Architecture,
+2979,MW Financial aid Private API Gateway,mw_finaid_private_api_gtwy,,MW Financialaid,Bank Roller$,FALSE
+2980,API Gateway Authorizer Credentials,mw_api_gateway_authorizer_credentials,,Middleware Re-platform Cluster Base,Technology Architecture,
+2981,aws api gateway cloudwatch role,mw_api_gateway_cloudwatch,,Middleware Re-platform Cluster Base,Technology Architecture,
+2982,Edu Node Base,edu_node_base,,phoenix.edu website,SMEEs,
+2983,API Gateway Lambda Authorizer,mw_lambda_authorizer,,Middleware Re-platform Cluster Base,Technology Architecture,
+2984,Public NLB Nginx,mw_public_nlb_nginx,,Middleware Re-platform Cluster Base,Technology Architecture,
+2985,internal nlb,mw_internal_nlb,,Middleware Re-platform Cluster Base,Technology Architecture,
+2986,MW ACM Private CA,mw_acm_private_ca,,Middleware Re-platform Cluster Base,Technology Architecture,
+2989,AWS Nuke Slack Bot,aws_nuke_slack_bot,,AWS Nuke,Cloud Ninjas,
+2990,Worker U4P,wdp_worker_u4p,,Work Distribution Platform,Super G.O.A.T.S.,
+2991,mw-srm-apps-private-api,mw_srm_apps_private_api,,mw-srm-apps,X-Force,
+2992,mw_financialaid,mw_financialaid,,MW Financialaid,Bank Roller$,
+2993,sample,sample,,sample-microservice,Cloud Ninjas,
+2994,infratest_cloudwatch,infratest_cloudwatch,,infratest-microservice,Cloud Ninjas,
+2995,Newrelic log ingestion for aws(cloudwatch),mw_newrelic_aws_log_ingestion,,Middleware Re-platform Cluster Base,Technology Architecture,
+2996,mw_financialaid_fpm_transform_4,mw_financialaid_fpm_transform_4,,MW Financialaid,Bank Roller$,
+2997,mw-finaid-fastatus-service,mw_finaid_fastatus_service,,MW Financialaid,Bank Roller$,
+2999,MW Employee Events Producer,mw_employee_events_producer,,mw-employee,Philomaths,
+3000,infratest_elasticsearch,infratest_elasticsearch,,infratest-microservice,Cloud Ninjas,
+3001,Middleware Event processor RabbitMQ to Kafka,mw_rabbit_mq_event_processor,,Middleware RabbitMQ Messaging,Bank Roller$,TRUE
+3002,MW Student Schedule,mw_student_schedule,,MW Student Schedule,Philomaths,
+3003,Wallets Redis,wallets_redis,,Wallets Microservice,Fundits,
+3004,Wallets Elasticsearch,wallets_elasticsearch,,Wallets Microservice,Fundits,
+3005,Wallets Cloudwatch,wallets_cloudwatch,,Wallets Microservice,Fundits,
+3006,Persons Redis,persons_redis,,Persons Microservice,Avatars,
+3007,Persons Elasticsearch,persons_elasticsearch,,Persons Microservice,Avatars,
+3008,Persons Cloudwatch,persons_cloudwatch,,Persons Microservice,Avatars,
+3009,Programs Redis,programs_redis,,Programs Microservice,Phoenix Wizards,
+3010,Programs Elasticsearch,programs_elasticsearch,,Programs Microservice,Phoenix Wizards,
+3011,Programs Cloudwatch,programs_cloudwatch,,Programs Microservice,Phoenix Wizards,
+3012,Contacts Redis,contacts_redis,,Contacts Microservice,Advantage Squad,
+3013,Contacts Elasticsearch,contacts_elasticsearch,,Contacts Microservice,Advantage Squad,
+3014,Contacts Cloudwatch,contacts_cloudwatch,,Contacts Microservice,Advantage Squad,
+3015,mw_fasqcholdinformationevent_transform,mw_finaid_fasqchold_transform,,MW Financialaid,Bank Roller$,
+3016,Applications Elasticsearch,applications_elasticsearch,,Applications Microservice,Phoenix Rising,
+3017,Applications Redis,applications_redis,,Applications Microservice,Phoenix Rising,
+3018,Applications Cloudwatch,applications_cloudwatch,,Applications Microservice,Phoenix Rising,
+3019,mw students service v2,mw_students_service_v2,,MW Students,Phoenix Wizards,
+3020,mw students service v3,mw_students_service_v3,,MW Students,Phoenix Wizards,TRUE
+3021,Organizations Redis,organizations_redis,,Organizations Microservice,Philomaths,
+3022,Organizations Elasticsearch,organizations_elasticsearch,,Organizations Microservice,Philomaths,
+3023,Organizations Cloudwatch,organizations_cloudwatch,,Organizations Microservice,Philomaths,
+3024,IAM Redis,iam_redis,,IAM Microservice,Skynet,
+3027,Careers Redis,careers_redis,,Careers Microservice,SMEEs,
+3028,Careers Elasticsearch,careers_elasticsearch,,Careers Microservice,SMEEs,
+3029,Careers Cloudwatch,careers_cloudwatch,,Careers Microservice,SMEEs,
+3030,MW Student ETL Producer,mw_student_etl_producer,,MW Financialaid,Bank Roller$,
+3031,Courses Redis,courses_redis,,Courses Microservice,Optimus Prime,
+3032,Courses Elasticsearch,courses_elasticsearch,,Courses Microservice,Optimus Prime,
+3033,Courses Cloudwatch,courses_cloudwatch,,Courses Microservice,Optimus Prime,
+3034,mw_finaid_fpm_transform_5,mw_finaid_fpm_transform_5,,MW Financialaid,Bank Roller$,
+3036,prometheus_jr,prometheus_jr,,prometheus,Cloud Ninjas,
+3037,kafkaadmin_apps_private_api,kafkaadmin_apps_private_api,,kirby-kafka,Scaena Cumulus,
+3038,kafkaadmin_private_tg,kafkaadmin_private_tg,,kirby-kafka,Scaena Cumulus,
+3039,Agreements Cloudwatch,agreements_cloudwatch,,Agreements Microservice,404's,
+3040,Agreements Elasticsearch,agreements_elasticsearch,,Agreements Microservice,404's,
+3041,Agreements Redis,agreements_redis,,Agreements Microservice,404's,
+3042,Sagas Cloudwatch,sagas_cloudwatch,,Sagas Microservice,Scaena Cumulus,
+3043,Sagas Elasticsearch,sagas_elasticsearch,,Sagas Microservice,Scaena Cumulus,
+3044,Sagas Redis,sagas_redis,,Sagas Microservice,Scaena Cumulus,
+3045,Faculty Cloudwatch,faculty_cloudwatch,,Faculty Microservice,Philomaths,
+3046,Faculty Redis,faculty_redis,,Faculty Microservice,Philomaths,
+3047,Faculty Elasticsearch,faculty_elasticsearch,,Faculty Microservice,Philomaths,
+3048,Learning Cloudwatch,learning_cloudwatch,,Learning Microservice,Winterfell Wolves,
+3049,Learning Redis,learning_redis,,Learning Microservice,Winterfell Wolves,
+3050,Learning Elasticsearch,learning_elasticsearch,,Learning Microservice,Winterfell Wolves,
+3051,MW Student SchdChg Producer,mw_student_schdchg_producer,,MW Financialaid,Bank Roller$,
+3052,mw financialaid vocado consumer,mw_financialaid_vocado_consumer,,MW Financialaid,Bank Roller$,
+3053,mw financialaid vocado dispatcher,mw_financialaid_vocado_dispatcher,,MW Financialaid,Bank Roller$,
+3054,Financial Aid Domain Redis,financialaid_domain_redis,,Financial Aid Microservice,Bank Roller$,
+3055,Financialaid Domain Elasticsearch,financialaid_domain_elasticsearch,,Financial Aid Microservice,Bank Roller$,
+3056,Financialaid Domain Cloudwatch,financialaid_domain_cloudwatch,,Financial Aid Microservice,Bank Roller$,
+3057,Preferences Redis,preferences_redis,,Preference Microservice,Philomaths,
+3058,Preferences Elasticsearch,preferences_elasticsearch,,Preference Microservice,Philomaths,
+3059,Preferences Cloudwatch,preferences_cloudwatch,,Preference Microservice,Philomaths,
+3060,create_ecr_repo,create_ecr_repo,,Self Service Automation,Cloud Ninjas,
+3061,mw cocoa stud activity aggr,mw_cocoa_stud_activity_aggr,,MW Financialaid,Bank Roller$,
+3062,ChatOps - AWS chatbot,chatbot_automation,,Self Service Automation,Cloud Ninjas,
+3063,safi_publisher,safi_publisher,,mw-saficreated-publisher,Bank Roller$,
+3065,mw_finaid_fasqcholdinfo_event_dispatcher,mw_finaid_fasqcholdinfo_event_dispatcher,,mw_finaid_fasqcholdinfo_event_dispatcher,Bank Roller$,
+3066,mw_finaid_common_events_dispatcher,mw_finaid_common_events_dispatcher,,mw_finaid_common_events_dispatcher,Bank Roller$,
+3067,mw cocoa fin cred bal aggr,mw_cocoa_fin_cred_bal_aggr,,MW Financialaid,Bank Roller$,
+3068,mw_finaid_fpo_event_retry_dispatcher,mw_finaid_fpo_event_retry_dispatcher,,mw_finaid_fpo_event_retry_dispatcher,Bank Roller$,
+3070,mw_finaid_fasqc_event_retry_dispatcher,mw_finaid_fasqc_event_retry_dispatcher,,mw_finaid_fasqc_event_retry_dispatcher,Bank Roller$,
+3071,mw_finaid_common_retry_dispatcher,mw_finaid_common_retry_dispatcher,,MW Financialaid,Bank Roller$,FALSE
+3072,Data Lake Cloudwatch Module UCP,dl_cloudwatch_ucp,,Data Lake Cloudwatch Resource,Data Divers,
+3078,Kendra Search Content Scraper Tool,kendra_search_scraper,,Kendra Search API,Firebird,
+3079,New Relic Gateway,nrgateway,,New Relic,Dynamites,
+3080,cia_ci_cd,cia_ci_cd,,Career Interest Assessment,CAT Ninjas,
+3081,eXp/Documentum - sFTP,sdu_sftp,,eXp/Documentum,404's,
+3082,cia_logging,cia_logging,,Career Interest Assessment,CAT Ninjas,
+3083,cia_cdn,cia_cdn,,Career Interest Assessment,CAT Ninjas,
+3084,cia_dns,cia_dns,,Career Interest Assessment,CAT Ninjas,
+3085,cia_hosting,cia_hosting,,Career Interest Assessment,CAT Ninjas,
+3086,WDP Case Consumer,wdp_case_consumer,,Work Distribution Platform,Super G.O.A.T.S.,
+3087,backup-s3,backup_s3,,Automation Tools,Cloud Ninjas,
+3088,odatalite4j,odatalite4j,,Technology Architecture,SMEEs,
+3089,Profile Conspatcher,profile_events_conspatcher,,Profile Events,Avatars,
+3093,Sagas Flo API,sagas_flo_api,,Sagas Flo,Super G.O.A.T.S.,
+3094,cia_monitoring,cia_monitoring,,Career Interest Assessment,CAT Ninjas,
+3095,cia_auth,cia_auth,,Career Interest Assessment,CAT Ninjas,
+3096,Worker IREV,wdp_worker_irev,,Work Distribution Platform,Super G.O.A.T.S.,
+3097,template-newrelic,template_newrelic,,template-newrelic,Cloud Ninjas,
+3098,Worker SFCC,wdp_worker_sfcc,,Work Distribution Platform,Super G.O.A.T.S.,
+3099,key-pair,key_pair,,General Purpose EKS Cluster,Cloud Ninjas,
+3100,SecurityPOC,securitypoc,,SecurityPOC,Skynet,
+3101,Server Change Process,server_change_process,,Kickstart,Future Bytes,
+3102,dl-helm-salesforce,dl_helm_salesforce,,Data Lake Helm Chart,Data Knights,
+3103,Developer Portal Home,dev_portal,,Developer Portal,Cloud Ninjas,
+3104,Backup Archive,backup_archive,,Data Protection,Cloud Ninjas,
+3105,Salesforce Event Gateway Sagas Consumer,salesforce_event_gateway_sagas_consumer,,Salesforce Event Gateway,Advantage Squad,FALSE
+3106,Peoplegrove,peoplegrove,,Peoplegrove,Hiremeow,
+3107,Peoplegrove Export,peoplegrove_export,,Peoplegrove,Hiremeow,
+3108,Data Governance RDS Postgresql Database,datagovernance_rds,,Data Governance Postgres Database,Data Governance,
+3109,New Relic Private Location,nrprivatelocation,,New Relic,Dynamites,TRUE
+3110,Agreements Subscriber,agreements_subscriber,,Agreements Microservice,404's,
+3112,SRM Attendance,srm_attendance,,Salesforce,Dare Devils,FALSE
+3113,Worker TSRW,wdp_worker_tsrw,,Work Distribution Platform,Super G.O.A.T.S.,
+3114,base-images,base_images,,Automation Tools,Cloud Ninjas,
+3115,Edu Selenium Base,edu_selenium_base,,phoenix.edu website,SMEEs,
+3116,Edu Webdriverio Base,edu_webdriverio_base,,phoenix.edu website,SMEEs,
+3117,aws-infosec-sentinel,aws_infosec_sentinel,,aws-infosec-sentinel,Skynet,
+3118,MyPhoenix AEM,myphxaem,,My Phoenix,Firebird,
+3119,85/15,85_15,,KIT (Knowledge Information Tool),Avatars,
+3120,elasticsearch-reindex-script,elasticsearch_reindex_script,,Sun Samurai Automation,Fundits,
+3121,Legal Hold,legalhold,,Relativity,Skynet,
+3122,checkpoint_jumphosts,checkpoint_jumphosts,,Checkpoint Firewalls,Skynet,
+3123,Phorms Microservice API,phorms_api,,Documents Microservice,404's,
+3124,Pricing Cloudwatch,pricing_cloudwatch,,Pricing Microservice,SMEEs,
+3125,Pricing Elasticsearch,pricing_elasticsearch,,Pricing Microservice,SMEEs,
+3126,Pricing Redis,pricing_redis,,Pricing Microservice,SMEEs,
+3128,OneTrust,onetrust,,OneTrust,"Ethics, Compliance, and Data Privacy (ECDP)",
+3129,Edu Automation Base,edu_automation_base,,phoenix.edu website,SMEEs,
+3130,Anti-Corruption Layer Consent API,acl_consent_api,,Profile Anti-Corruption Layer,Scaena Cumulus,
+3131,WDP Lambda,wdp_lambda,,Work Distribution Platform,Super G.O.A.T.S.,
+3132,EVO SNS Video System,vdoprod_evo_aws,,EVO SNS Video System,Marketing Team,
+3134,Clearview,example2021_test,,LinkSource,morphEUS,
+3135,Databased Release Jumphosts,db_release_servers,,Legacy Database Release jumphosts,Phoenix Wizards,
+3137,CloudHealth,cloudhealth,,CloudHealth,Cloud Ninjas,
+3138,Pod Destroyer - chaos monkey,pod_destroyer,,Automation Tools,Cloud Ninjas,
+3139,S360 Clickstream,clickstream,,Data Lake Analytics,Data Knights,
+3140,Data Lake Uopxdw Redshift module,dl_redshift_uopxdw,,Data Lake Redshift Application,Data Divers,
+3141,Data Lake KMS Speechminer Module,dl_kms_ucp_speechminer,,Data Lake KMS Application,Data Divers,
+3142,Data lake ECR Microservices Module,dl_ecr_microservices,,Data lake ECR Application,Data Divers,
+3143,Notes Models,notes_models,,Notes Microservice,SMEEs,TRUE
+3144,Notes Helm,notes_helm,,Notes Microservice,SMEEs,TRUE
+3145,Data Lake Glue SF SEOCS Sentiment Comprehend Module,dl_glue_sf_seocs_sentiment_comprehend,,Data Knights Glue,Data Knights,
+3146,kubernetes_gp_iam,kubernetes_gp_iam,,Kubernetes - General Purpose,Cloud Ninjas,
+3147,CDK Pipeline Plugin,cdk_pipeline_plugin,,eCampus Legacy,Premium,
+3148,DocuSign,docusign,,DocuSign,404's,
+3149,aws billing,aws_billing,,Amazon Web Services (AWS),Cloud Ninjas,
+3150,Data Lake Glue Fullstory Aggregation,dl_glue_fullstory,,Data Knights Glue,Data Knights,
+3151,Notes DocDB,notes_docdb,,Notes Microservice,SMEEs,TRUE
+3152,Data Lake Blackboard,dl_glue_blackboard,,Data Knights Glue,Data Knights,
+3153,Data Lake AMS,dl_glue_ams,,Data Knights Glue,Data Knights,
+3154,SEOCS Aggregation DynamoDB Lookup,dl_glue_salesforce_seocs_aggr_dynamo_db,,Data Knights Glue,Data Knights,
+3155,Data Lake Glue PWave Feature Outcome,dl_glue_pwave_features_outcome_aggr,,Data Knights Glue,Data Knights,
+3156,Data Lake Glue Salesforce S3 to DynamoDB,dl_glue_salesforce_s3_to_dynamodb,,Data Knights Glue,Data Knights,
+3157,Data Lake Glue Athena Redshift Spectrum,dl_glue_athena_redshift_spectrum,,Data Knights Glue,Data Knights,
+3158,Data Lake Glue Streaming,dl_glue_salesforce_glue_streaming,,Data Knights Glue,Data Knights,
+3159,Data Lake Salesforce DynamoDB to Redshift Spectrum,dl_glue_salesforce_dynamodb_to_rs,,Data Knights Glue,Data Knights,
+3160,Data Lake Student Engagement Scoring,dl_glue_student_engagement_scoring,,Data Knights Glue,Data Knights,
+3161,Data Lake Glue Salesforce Offer C,dl_glue_sf_offer__c,,Data Knights Glue,Data Knights,
+3162,Rules as a Service - Application and Server package,raas_package,,Rules as a Service,Scaena Cumulus,
+3163,Data Lake Kinesis Module fraud,dl_kinesis_fraud,,Data Lake Kinesis Resource,Data Knights,
+3164,Phorms Microservice Listener,phorms_listener,,Documents Microservice,404's,
+3165,Data Lake Vocado,dl_vocado,,Data Lake Vocado,Data Knights,
+3173,Data Lake Lambda Salesforce,dl_dk_lambda_salesforce,,Data Knights Lambda,Data Knights,
+3174,Data Lake Lambda ISIR,dl_lambda_isir,,Data Knights Lambda,Data Knights,
+3175,Data Lake Lambda Blackboard,dl_lambda_bb,,Data Knights Lambda,Data Knights,
+3176,Data Lake Lambda Snapshot,dl_lambda_snapshot,,Data Knights Lambda,Data Knights,
+3177,Data Lake Lambda LexLogs,dl_lambda_lexlogs,,Data Knights Lambda,Data Knights,
+3178,Data Lake Lambda APIGateWay,dl_lambda,,Data Knights Lambda,Data Knights,
+3179,SFTP Services,aws_sftp,,AWS Transfer,Skynet,
+3180,Fraud Analytics,fraud_analytics,,AWS Infosec,Skynet,
+3181,cbe-st-grade-saga-worker,cbe_st_grade_saga_worker,,cbe-st-grade-saga-worker,Dare Devils,
+3182,Student Elasticsearch,student_elasticsearch,,Student Microservice,Philomaths,
+3183,Student Cloudwatch,student_cloudwatch,,Student Microservice,Philomaths,
+3184,Student Redis,student_redis,,Student Microservice,Philomaths,
+3185,saga-srm-event-worker,saga_srm_event_worker,,saga-srm-event-worker,Dare Devils,FALSE
+3186,cbe-student-lda-saga-worker,cbe_student_lda_saga_worker,,cbe-student-lda-saga-worker,Dare Devils,
+3187,mw-cbe-student-consumer,mw_cbe_student_consumer,,mw-cbe-student-consumer,Dare Devils,
+3188,Student Subscriber,student_subscriber,,Student Microservice,Philomaths,
+3189,nse-nofuturecourse-saga-worker,nse_nofuturecourse_saga_worker,,nse-nofuturecourse-saga-worker,X-Force,
+3190,cia_testcafe,cia_testcafe,,Career Interest Assessment,CAT Ninjas,
+3191,Lambda MPN/EC File Processor,lambda_mpn_ec_files,,MW Financialaid,Bank Roller$,
+3192,Drools UI,raas_ui,,Rules as a Service,Scaena Cumulus,
+3193,Drools Kie Server,raas_server,,Rules as a Service,Scaena Cumulus,
+3194,Financialaid Datastream Models,financialaid_datastream_models,,MW Financialaid,Bank Roller$,
+3195,Kiali,kiali_gp,,General Purpose EKS Cluster,Cloud Ninjas,
+3196,Dynamites Lambda ec2 auto stop function,d_lambda_ec2_stop,,Dynamites Lambda Resource,Dynamites,
+3197,Dynamites Lambda ec2 auto start function,d_lambda_ec2_start,,Dynamites Lambda Resource,Dynamites,
+3198,Dynamites Lambda rds auto stop function,d_lambda_rds_stop,,Dynamites Lambda Resource,Dynamites,
+3199,Dynamites Lambda rds auto start function,d_lambda_rds_start,,Dynamites Lambda Resource,Dynamites,
+3201,DSS Student Analytics RDS Module,dss_student_analytics_rds,,DSS Student Analytics,DSS - BI,
+3202,Data Lake Neptune Identity Graph,dl_dk_neptune_identity,,Data Lake Neptune,Data Knights,
+3203,notifications-subscriber,notifications_subscriber,,notifications-subscriber,Firebird,
+3204,Financialaid saig Api,financialaid_saig_api,,Financial Aid Microservice,Bank Roller$,
+3210,Financialaid saig Subscriber,financialaid_saig_subscriber,,Financial Aid Microservice,Bank Roller$,
+3211,marketing data and analytics aws componants,marketing_data_science,,marketing data and analytics,Marketing Sciences Data & Analytics,
+3212,marketing data and analytics aws componants (server),marketing_data_science_server,,marketing data and analytics,Marketing Sciences Data & Analytics,FALSE
+3213,newrelic-logging,newrelic_logging,,General Purpose EKS Cluster,Cloud Ninjas,
+3214,Leads Subscriber,leads_subscriber,,Leads Microservice,4-Mation,TRUE
+3215,Leads Cloudwatch,leads_cloudwatch,,Leads Microservice,4-Mation,TRUE
+3216,Leads elasticsearch,leads_elasticsearch,,Leads Microservice,4-Mation,TRUE
+3217,responsys_singer_io,responsys_singer_io,,responsys_singer_io,Advantage Squad,
+3218,infratest_aws_pipeline,infratest_aws_pipeline,,infratest-microservice,Cloud Ninjas,FALSE
+3219,AWS SageMaker,ds_sagemaker_pwave,,AWS SageMaker,Data Science Team,
+3220,Data Lake Glue Job Monitoring,dl_glue_dk_notification_process,,Data Knights Glue,Data Knights,
+3221,Phorms Microservice DS Connect,phorms_ds_connect,,Documents Microservice,404's,
+3222,Financial Aid saig docdb,financialaid_saig_docdb,,Financial Aid Microservice,Bank Roller$,
+3223,serverless_backend,serverless_backend,,Career Hub,CAT Ninjas,
+3224,Content Delivery Network,cdn,,Career Hub,CAT Ninjas,
+3225,Virtual Appliance Templates,vapp_templates,,VM Templates,Future Bytes,
+3226,Milestone Mobile,milestone_mobile,,Security Information and Management Systems,Skynet,
+3227,financialaid saig helm,finaid_helm,,Financial Aid Microservice,Bank Roller$,
+3228,Credit Predictor Tool,credit_predictor_tool,,Credit Predictor Tool,Credit Storm,
+3229,Credit Predictor Tool - S3,cpt_s3,,Credit Predictor Tool,Credit Storm,
+3230,Credit Predictor Tool - CloudFront,cpt_cloudfront,,Credit Predictor Tool,Credit Storm,
+3231,Credit Predictor Tool - ACM,cpt_acm,,Credit Predictor Tool,Credit Storm,
+3232,Credit Predictor Tool - CodePipeline,cpt_codepipeline,,Credit Predictor Tool,Credit Storm,
+3238,CreditPlus Auth,creditplus_auth,,CreditPlus,Credit Storm,
+3239,Dynamites Lamba ECS auto stop function,d_lambda_ecs_stop,,Dynamites Lambda Resource,Dynamites,
+3240,Dynamites Lamba ECS auto start function,d_lambda_ecs_start,,Dynamites Lambda Resource,Dynamites,
+3241,Lambda MPN/EC File Reprocess,lambda_mpn_ec_reprocess,,MW Financialaid,Bank Roller$,
+3242,Life Credit Estimator Tool,life_credit_estimator_tool,,Life Credit Estimator Tool,Credit Storm,
+3243,Data Lake Data Divers Speechminer Stepfunction Module,dl_dd_stepfunction_speechminer,,Data Divers Step Function Resource,Data Divers,
+3244,Secret Names,dl_secret_blackboard,,AWS Secret Manager,Data Knights,
+3245,fluentbit,fluentbit,,New Relic,Dynamites,
+3246,Courses Credit Connected Datasets,courses_credits_connected_dataset,,Courses Microservice,Optimus Prime,
+3247,Life Credit Estimator Tool - S3,lcet_s3,,Life Credit Estimator Tool,Credit Storm,
+3249,Life Credit Estimator Tool - CodePipeline,lcet_codepipeline,,Life Credit Estimator Tool,Credit Storm,
+3250,Life Credit Estimator Tool - ACM,lcet_acm,,Life Credit Estimator Tool,Credit Storm,
+3251,Life Credit Estimator Tool - CloudFront,lcet_cloudfront,,Life Credit Estimator Tool,Credit Storm,
+3253,Life Credit Estimator Tool - CodeBuild,lcet_codebuild,,Life Credit Estimator Tool,Credit Storm,
+3254,Sagas UI Gateway,sagas_ui_gateway,,Sagas Microservice,Scaena Cumulus,
+3255,Notifications Pipelines,notifications_pipelines,,Notifications Microservice,Firebird,
+3256,Data Lake Sandbox S3 Bucket,dl_s3_blackboard,,Data Lake S3 Resource,Data Knights,
+3257,Route53,dns,,Career Hub,CAT Ninjas,
+3258,Logging Resources,logging,,Career Hub,CAT Ninjas,
+3259,Automated Testing,automated_testing,,Career Hub,CAT Ninjas,
+3260,CI CD Pipeline,ci_cd_pipeline,,Career Hub,CAT Ninjas,
+3261,ISIR Financial Aid,dl_isir_aid_codepipeline,,AWS Code Pipeline,Data Knights,
+3262,pam-test,pam_test,,pam-test,Cloud Ninjas,
+3263,Financial Aid Kafka Connector,dl_financial_aid_kafka_connect,,Financial Aid Kafka Connector,Data Knights,
+3264,Kafkaadmin Services Module,kafkaadmin,,Kafka Admin Services,Scaena Cumulus,
+3265,Courses Credits API,courses_credits_api,,Courses Microservice,Optimus Prime,
+3266,kafkaadmin Self Service APIs,kafkaadmin_self_service_apis,,Kafka Admin Self Service,Scaena Cumulus,
