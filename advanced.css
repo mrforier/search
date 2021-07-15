@@ -9,7 +9,7 @@ header {
 }
 
 .links{
-float:right; 
+float:right; margin:  35px 25px;
 margin-left: 10px ;
 }
 
@@ -33,25 +33,19 @@ margin-right: 10px ;
 }
  
 
-.formblock {
+.formblock .table {
     display: inline-block;
     min-width: 150px;
     width: inherit;
     font-size: 17px;
-    height: 42px;
-    font-weight: 500;
+    font-weight: 400;
     color: #333;
     vertical-align: middle;
+    border-style: ridge none ridge none;
+    margin:  35px 25px;
 }
 
 
-.ASRow {
-    display: flex;
-    flex-direction: row;
-    float: inherit;   
-    margin: 25px 35px;
-    font-size: 13px;
-}
 
 .jfk-button {
     margin: 10px 0;
@@ -70,21 +64,22 @@ margin-right: 10px ;
     vertical-align: middle;
 }
 
-.ASRow-1 {
-    display: inline-block;
-    height:42px;
-    font-size: 17px;
-    min-width: 146px;
-    margin-left: 10px;
-    font-weight: 500;
-    color: #333;
-    vertical-align: middle;
-}
 
 .ASInput{
     width:30%;
     height:42px;
     min-width: 200px;
+    max-width: 400px;
+    margin: 10px 0;
+    font-size: 13px;
+    vertical-align: middle;
+}
+
+.ASType{
+    width:30%;
+    height:42px;
+    min-width: 200px;
+    max-width: 200px;
     margin: 10px 0;
     font-size: 13px;
     vertical-align: middle;
@@ -108,8 +103,4 @@ margin-right: 10px ;
     min-width:300pt;
 }
 
-
-
-
-
-form {margin:  35px 25px;}
+.formclassdump {height: 42px;}
